@@ -5,8 +5,59 @@
     <meta charset="utf-8">
     <title>{{ page.title }} - {{ site.title }}</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bodoni+Moda:r,ri,b,bi|UnifrakturMaguntia">
-    <link rel="stylesheet" href="{{ "/assets/css/tufte.css" | relative_url }}">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src="//cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
+	<style>
+		body {
+			font-family: "Bodoni Moda", sans-serif;
+			}
+		
+		ul.list { 
+			list-style-type: none; 
+			padding: 0;
+			}
+		
+		.fraktur {
+			font-family: "UnifrakturMaguntia", sans-serif;
+		}
+		
+		.type {
+			display: none;
+			font-family: "UnifrakturMaguntia", sans-serif;
+		}
+		
+		.title {
+		}
+		
+		.left {
+			float: left;
+		}
+		
+		.right {
+			padding-left: 5rem;
+		}
+		
+		.panel-right {
+			padding-left: 7rem;
+		}
+		
+		.panel {
+			padding-left: 5rem;
+			max-height: 0;
+			overflow: hidden;
+			transition: max-height 0.2s ease-out;
+		}
+		
+		.edition {
+			clear:both;
+			padding-top: 1rem;
+		}
+		
+		.accordion {
+			cursor: pointer;
+		}
+	</style>
   </head>
   <body>
   	<article>
@@ -15,24 +66,65 @@
 		</section>
 		<section>
 			<h2>Folio's</h2>
-			<ul>{% for folio in site.data.folios %}
-			<li><strong>{{ folio.number }}</strong>
-			{% if folio.digital %}
-				<label for="mn-{{ forloop.index }}" class="margin-toggle">&#8853; </label>
-				<input type="checkbox" id="mn-{{ forloop.index }}" class="margin-toggle"/>
-				<span class="marginnote">
-				{% for edition in folio.digital %}
-					<img src="{{ edition.thumb }}">
-					<a href="{{ edition.url }}">{{ edition.org }}</a>
-				{% endfor %}
-				</span>
-			{% endif %}<br>
-			<em>{{ folio.title }}</em><br>
-			<span class="fraktur">{{ folio.description }}</span>
+			<div id="projects">
+			<label>Search:</label>
+			<input class="search" id="text" name="text" type="text" required="" minlength="1" placeholder="query">
+			<label>Sort by:</label>
+			<button class="sort" data-sort="title">title</button>
+			<button class="sort" data-sort="number">number</button>
+			<ul class="list">
+			{% for folio in site.data.folios %}
+			<li><hr>
+			<div class="accordion">
+				<div class="left">
+					<span class="number"><strong>{{ folio.number }}</strong></span>
+				</div>
+				<div class="right">
+					<span class="title">{{ folio.title }}<span>
+					{% if folio.description %}
+					<span class="fraktur">{{ folio.description }}</span>
+					{% endif %}
+				</div>
+			</div>
+			<div class="panel">
+				{% if folio.digital %}
+					{% for edition in folio.digital %}
+						<div class="edition">
+						<div class="left"><img width="100px" src="{{ edition.thumb }}"></div>
+						<div class="panel-right"><a href="{{ edition.url }}">{{ edition.org }}</a></div>
+						</div>
+					{% endfor %}
+					{% else %}
+					<span>No digital editions available (yet)</span>	
+				{% endif %}
+			</div>
 			</li>
-			{% endfor %}</ul>
+			{% endfor %}
+			</ul>
 		</section>
     </article>
+    <script type="application/javascript">
+	var options = {
+		valueNames: [ 'title', 'number', 'type' ]
+	};
+	
+	var projectsList = new List('projects', options);
+
+	var acc = document.getElementsByClassName("accordion");
+	var i;
+
+	for (i = 0; i < acc.length; i++) {
+	  acc[i].addEventListener("click", function() {
+		this.classList.toggle("active");
+		var panel = this.nextElementSibling;
+		if (panel.style.maxHeight) {
+		  panel.style.maxHeight = null;
+		} else {
+		  panel.style.maxHeight = panel.scrollHeight + "px";
+		} 
+	  });
+	}	
+	</script>
   </body>
 </html>
 
