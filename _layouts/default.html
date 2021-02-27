@@ -84,6 +84,11 @@
 			width: 300px;
 		}
 		
+		.mfp-iframe-holder .mfp-content {
+			 max-width: 1000px;
+			 height: 100%;
+		}
+		
 		@media screen and (max-width: 800px) {
 		  .portrait {
 			float: none;
@@ -131,7 +136,7 @@
 						<div class="panel-right"><a href="{{ edition.url }}">{{ edition.org }}</a><br>
 						{% if edition.manifests %}
 							{% for manifest in edition.manifests %}
-							<a class="manifest" href="http://uv-v4.netlify.app/uv.html#?manifest={{ manifest.url }}">{{ manifest.title }}</a><br>
+							<a class="manifest" href="assets/uv/uv.html#?manifest={{ manifest.url }}">{{ manifest.title }}</a><br>
 							{% endfor %}
 						{% endif %}
 						</div>
