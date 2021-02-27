@@ -7,7 +7,10 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bodoni+Moda:r,ri,b,bi|UnifrakturMaguntia">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 	<script src="//cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" />
 	<style>
 		body {
 			font-family: "Bodoni Moda", sans-serif;
@@ -91,7 +94,13 @@
 					{% for edition in folio.digital %}
 						<div class="edition">
 						<div class="left"><img width="100px" src="{{ edition.thumb }}"></div>
-						<div class="panel-right"><a href="{{ edition.url }}">{{ edition.org }}</a></div>
+						<div class="panel-right"><a href="{{ edition.url }}">{{ edition.org }}</a><br>
+						{% if edition.manifests %}
+							{% for manifest in edition.manifests %}
+							<a class="manifest" href="http://universalviewer.io/uv.html?manifest={{ manifest.url }}">{{ manifest.title }}</a><br>
+							{% endfor %}
+						{% endif %}
+						</div>
 						</div>
 					{% endfor %}
 					{% else %}
@@ -123,7 +132,13 @@
 		  panel.style.maxHeight = panel.scrollHeight + "px";
 		} 
 	  });
-	}	
+	}
+	
+	$(document).ready(function() {
+	  $('.manifest').magnificPopup({
+	  type:'iframe'
+	  });
+	});
 	</script>
   </body>
 </html>

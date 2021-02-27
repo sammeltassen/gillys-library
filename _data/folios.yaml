@@ -415,14 +415,31 @@
     -
         org: Universitätsbibliothek Heidelberg
         url: http://digi.ub.uni-heidelberg.de/diglit/murr1777ga
-        manifest: https://digi.ub.uni-heidelberg.de/diglit/iiif/murr1777bd1/manifest.json
         thumb: https://digi.ub.uni-heidelberg.de/iiif/2/murr1777bd1%3A0000e.jpg/full/500,/0/default.jpg
+        manifests:
+        -
+            title: Volume 1 (1777)
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/murr1777bd1/manifest.json
+        -
+            title: Volume 2 (1778)
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/murr1778bd2/manifest.json
+        -
+            title: Volume 3 (1778)
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/murr1778bd3/manifest.json
+        -
+            title: Volume 4 (1779)
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/murr1779bd4/manifest.json
+        -
+            title: Volume 5 (1781)
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/murr1781bd5/manifest.json
+        -
+            title: Volume 6 (1783)
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/murr1783bd6/manifest.json
     -
         org: Bayerische Staatsbibliothek
         url: http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10222209-2
         manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10222207/manifest
         thumb: https://api.digitale-sammlungen.de/iiif/image/v2/bsb10222207_00005/full/500,/0/default.jpg
-    comment: 
 -
     number: 63
     type: folio
