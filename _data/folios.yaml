@@ -1,7 +1,8 @@
 ---
 -
-    number: 1-3
-    title: The antiquities of Athens, measures and delineated by James Stuart and Revett. London 1762.
+    number: 1 – 3
+    type: folio
+    title: The antiquities of Athens, measured and delineated by James Stuart and Revett. London 1762.
     description: Mit schönen Kupfern, 3 Bände.
     year: 1762
     authors: Stuart; Revett
@@ -9,6 +10,7 @@
     comment: 
 -
     number: 4
+    type: folio
     title: Les ruines de Paestum ou de Posidonie dans la grande Grèce, par F. Major. London 1768.
     description: Mit schönen Kupfern.
     year: 1768
@@ -16,7 +18,8 @@
     digital: 
     comment: 
 -
-    number: 5-6
+    number: 5 – 6
+    type: folio
     title: Ionian antiquities, published by Chandler, Revett and Pars. London 1769, mit schönen Kupfern.
     description: 2 Bände.
     year: 1769
@@ -25,6 +28,7 @@
     comment: 
 -
     number: 7
+    type: folio
     title: 'Description de l''école de chirurgie à Paris, par Goudoin. Paris 1780.'
     description: 
     year: 1780
@@ -33,6 +37,7 @@
     comment: 
 -
     number: 8
+    type: folio
     title: Les édifices antiques de Rome, dessinés & mesurés par M. Desgodetz. Paris 1799.
     description: Prachtausgabe, mit Kupfern.
     year: 1799
@@ -41,6 +46,7 @@
     comment: 
 -
     number: 9
+    type: folio
     title: 'Prix de l''académie d''architecture de Paris. Collection de divers plans en contours.'
     description: Oeuvre très rare.
     year: "?"
@@ -49,6 +55,7 @@
     comment: 
 -
     number: 10
+    type: folio
     title: Ruins of the palace of the emperor Diocletian at Spalatro in Dalmatia by R. Adam, 1764.
     description: Blos Kupfer.
     year: 1764
@@ -57,6 +64,7 @@
     comment: 
 -
     number: 11
+    type: folio
     title: Palais, Maisons, & autres édifices modernes, dessinés à Rome, publiés à Paris an VI
     description: 15 Hefte, jedes Heft zu 6 Blatt.
     year: 
@@ -65,6 +73,7 @@
     comment: 
 -
     number: 12
+    type: folio
     title: Gallerie antique, ou collection des chef-d’oeuvres d’architecture, sculpture & peinture antiques.
     description: 6 livraisons, avec 74 planches.
     year: 
@@ -73,6 +82,7 @@
     comment: 
 -
     number: 13
+    type: folio
     title: Choix & costumes civils & militaires des peuples de l’antiquité, leurs instruments de musique, meubles, & décorations intérieus de leurs maison, d’après les monuments antiq[u]es.
     description: 4 livraisons avec 24 planches, par Willemin. Paris an VI.
     year: 
@@ -81,6 +91,7 @@
     comment: 
 -
     number: 14
+    type: folio
     title: 'Arabesques antiques des bains de Livie de la ville Adrienne, avec les plafonds de la ville Madame, peint d''après les desseins de Raphael, & g[r]avês par de Ponce, à Paris.'
     description: Blos Kupfer.
     year: 
@@ -89,6 +100,7 @@
     comment: 
 -
     number: 15
+    type: folio
     title: Les ruines des plus beaux monument de la Grèce, par M. le Roi, 1758.
     description: 2 Bände, Prachtausgabe, mit Kupfern.
     year: 
@@ -96,15 +108,17 @@
     digital: 
     comment: 
 -
-    number: [16-17]
+    number: 16 – 17
+    type: folio
     title: Le loggie di Rafaele Sanctio d’Urbino nel Vaticano
     description: Lauter schöne Kupfer
     year: 
     authors: 
     digital: 
-    comment: 
+    comment: wrong numbers 
 -
     number: 18
+    type: folio
     title: Les ruines de Palmyre, autrement dite Tedmor au desert, à Londres 1753.
     description: Prachtausgabe, mit schönen Kupfern.
     year: 
@@ -113,6 +127,7 @@
     comment: 
 -
     number: 19
+    type: folio
     title: Les ruines de Balbec, autrement dite Heliopolis dans la Coelosyrie, à Londres 1757.
     description: Prachtausgabe, mit schönen Kupfern.
     year: 
@@ -120,7 +135,8 @@
     digital: 
     comment: 
 -
-    number: 20-24
+    number: 20 – 24
+    type: folio
     title: Voyage pittoresque ou description des Royaumes de Naples & de Sicile, à Paris 1[7]81-86.
     description: Prachtausg., mit schönen Kupf., 2 Bände.
     year: 
@@ -129,6 +145,7 @@
     comment: 
 -
     number: 25
+    type: folio
     title: 'Voyage pittoresque de l''Istrie & de la Dalmatie, contenant la description historique des monuments, sites, productions, costumes, moeurs, & usage des habitans, & enrichi d’estampes, pris fur les lieux par Cassas.'
     description: 
     year: 
@@ -137,6 +154,7 @@
     comment: 
 -
     number: 26
+    type: folio
     title: Voyage pittoresque de la Grèce par Choiseul-Goussier, à Paris 1782, Tom. I.
     description: Prachtausgabe, mit Kupfern.
     year: 
@@ -144,7 +162,8 @@
     digital: 
     comment: 
 -
-    number: 27-30
+    number: 27 – 30
+    type: folio
     title: Voyage pittoresque des Isles de Sicile, de Malte & de Lipari, par J. Houël, à Paris 1782-97.
     description: Prachtausgabe, mit schönen Kupfern, 4 Bände.
     year: 
@@ -153,6 +172,7 @@
     comment: 
 -
     number: 31
+    type: folio
     title: Fragments & ornements d’architecture dessinées à Rome d’après l’antiques, par Moreau, architecte.
     description: Blos Kupfer.
     year: 
@@ -161,6 +181,7 @@
     comment: 
 -
     number: 32
+    type: folio
     title: Antichità Romane de temp[o] della Repub[b]lica e de’ primi Imperatori da G.B. Piranesi.
     description: Blos Kupfer.
     year: 
@@ -169,6 +190,7 @@
     comment: 
 -
     number: 33
+    type: folio
     title: Darstellung römischer Ruinen, von G.B. Piranesi.
     description: Blos Kupfer.
     year: 
@@ -177,6 +199,7 @@
     comment: 
 -
     number: 34
+    type: folio
     title: Sammlung von antiken Kaminen, herausgegeben von G.B. Piranesi.
     description: Blos Kupfer.
     year: 
@@ -185,6 +208,7 @@
     comment: 
 -
     number: 35
+    type: folio
     title: Della magnificenza d’architettura de’ Romani, opera di G.B. Piranesi.
     description: Mit schönen Kupfern.
     year: 
@@ -193,6 +217,7 @@
     comment: 
 -
     number: 36
+    type: folio
     title: Vitruvio Pollione, de architectura libri dece, tradotti de latino da G. de Ponte 1521, Como.
     description: Mit Holzschnitten.
     year: 
@@ -201,6 +226,7 @@
     comment: 
 -
     number: 37
+    type: folio
     title: "[I] dieci libri della architettura di M. Vitruvio, tradutti e commentati da Monsignor Barbaro. Vinegia 1556."
     description: Mit Holzschnitten.
     year: 
@@ -209,6 +235,7 @@
     comment: 
 -
     number: 38
+    type: folio
     title: M. Vitruvii Pollionis de architectura libri X. Amsterdam 1649.
     description: Mit Holzschnitten.
     year: 
@@ -217,6 +244,7 @@
     comment: 
 -
     number: 39
+    type: folio
     title: Les dix libres d’architecture de Vitruve, édition de M. Perrault, à Paris 1684, avec Estampes.
     description: 
     year: 
@@ -225,6 +253,7 @@
     comment: 
 -
     number: 40
+    type: folio
     title: L’architettura di M. Vitruvio Pollione, colla tradutione Italiana e commentata del Marq. B. Galliani. Napoli 1758.
     description: Prachtausgabe, mit Kupfern.
     year: 
@@ -233,6 +262,7 @@
     comment: 
 -
     number: 41
+    type: folio
     title: Commentaire sur Vitruve, éclaircis par des figures, par W. Newton, architecte. Londres 1780.
     description: 
     year: 
@@ -241,6 +271,7 @@
     comment: 
 -
     number: 42
+    type: folio
     title: Les plus beaux monuments de Rome ancienne qui existent encore, dessinés par Barbault. Rome 1761.
     description: Mit Kupfern.
     year: 
@@ -249,6 +280,7 @@
     comment: 
 -
     number: 43
+    type: folio
     title: Della antichità di Ercolano, rappresentando i bronzi ivi retrovati.
     description: Mit schönen Kupfern.
     year: 
@@ -257,6 +289,7 @@
     comment: 
 -
     number: 44
+    type: folio
     title: Les Restes de l’ancienne Rome, mesurés, dessinés & graves par B. d’Overbecke, à la Haye 1763.
     description: Mit Kupfern.
     year: 
@@ -265,6 +298,7 @@
     comment: 
 -
     number: 45
+    type: folio
     title: Original designs in Architecture, consisting of Plans, Elevations and Sections for villas, mansions, townhouses &c. by J. Lewis. London 1780.
     description: Prachtausgabe.
     year: 
@@ -272,7 +306,8 @@
     digital: 
     comment: 
 -
-    number: 46-47
+    number: 46 – 47
+    type: folio
     title: Les Bâtimens & les desseins d’André Palladio, recueillis & illustrés par O.B. Scamozzi.
     description: I Theil Beschreibung, I Theil Kupfer.
     year: 
@@ -280,7 +315,8 @@
     digital: 
     comment: 
 -
-    number: 48-49
+    number: 48 – 49
+    type: folio
     title: The four books of Architecture by A. Palladio, translated from the original Italian by Isaac Ware. London.
     description: 2 Bände, mit Kupfern.
     year: 
@@ -289,6 +325,7 @@
     comment: 
 -
     number: 50
+    type: folio
     title: Les Bâtimens inedits d’André Palladio. Tome I, à Venise 1760.
     description: Mit Kupfern.
     year: 
@@ -297,6 +334,7 @@
     comment: 
 -
     number: 51
+    type: folio
     title: Vorstellung der vornehmsten Gebäude in und um Wien.
     description: Blos Kupfer.
     year: 
@@ -305,6 +343,7 @@
     comment: 
 -
     number: 52
+    type: folio
     title: Architecture de Palladio, mise au jour par J. Leoni.
     description: Mit schönen Kupf.
     year: 
@@ -313,6 +352,7 @@
     comment: 
 -
     number: 53
+    type: folio
     title: Les quatres livres d’architecture d’André Palladio, mis en françois, à Paris 1650.
     description: Mit Holzschnitten.
     year: 
@@ -321,6 +361,7 @@
     comment: 
 -
     number: 54
+    type: folio
     title: Opere varie di architettura prospettive, groteschi, antichità, ful gusto degli antichi Romani, inventate & incise da G.B. Piranesi. Roma 1750.
     description: Mit Kupfern.
     year: 
@@ -329,6 +370,7 @@
     comment: 
 -
     number: 55
+    type: folio
     title: Architecture de Philibert de Lorme, à Paris 1567, avec figures.
     description: Livre très rare.
     year: 
@@ -337,6 +379,7 @@
     comment: 
 -
     number: 56
+    type: folio
     title: Nouvelles inventions pour bien bastir & à petits fraix, par Philibert de l’Orme. Paris 1561.
     description: Livre très rare.
     year: 
@@ -345,6 +388,7 @@
     comment: Goed Google voorbeeld
 -
     number: 57
+    type: folio
     title: Manière de bien bastir pour toutes fortes de personnes, par P. Le Muet, architecte, à Paris 1647.
     description: Mit Kupfern. Livre très rare.
     year: 
@@ -353,6 +397,7 @@
     comment: 
 -
     number: 58
+    type: folio
     title: Les oevres d’Architecture d’Antoine le Pautre, architecte, à Paris.
     description: Lauter Kupfer.
     year: 
@@ -360,7 +405,8 @@
     digital: 
     comment: 
 -
-    number: 59-62
+    number: 59 – 62
+    type: folio
     title: Abbildung der Gemälde und Alterthümer aus Herkulanum, herausgegeben von Kilian.
     description: Mit vielen Kupfern, 1781, 4 Bände.
     year: 1781
@@ -370,10 +416,16 @@
         org: Universitätsbibliothek Heidelberg
         url: http://digi.ub.uni-heidelberg.de/diglit/murr1777ga
         manifest: https://digi.ub.uni-heidelberg.de/diglit/iiif/murr1777bd1/manifest.json
-        thumb: https://digi.ub.uni-heidelberg.de/iiif/2/murr1777bd1%3A0000e.jpg/full/1024,/0/default.jpg
+        thumb: https://digi.ub.uni-heidelberg.de/iiif/2/murr1777bd1%3A0000e.jpg/full/500,/0/default.jpg
+    -
+        org: Bayerische Staatsbibliothek
+        url: http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10222209-2
+        manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10222207/manifest
+        thumb: https://api.digitale-sammlungen.de/iiif/image/v2/bsb10222207_00005/full/500,/0/default.jpg
     comment: 
 -
     number: 63
+    type: folio
     title: L’Anfiteatro flavio, descritto e delineato dal Cavaliere C. Fontana, nell Haia 1725.
     description: Mit Kupfern.
     year: 
@@ -381,7 +433,8 @@
     digital: 
     comment: 
 -
-    number: 64-65
+    number: 64 – 65
+    type: folio
     title: J. Winckelmann alte Denkmäler der Kunst aus dem Italienischen, von Fr. L. Brunn. Berlin 1791.
     description: 2 Bände, mit vielen Kupfern.
     year: 
@@ -389,7 +442,8 @@
     digital: 
     comment: 
 -
-    number: 66-67
+    number: 66 – 67
+    type: folio
     title: Oeuvres d’Architecture de M.J. Peyre, ancien persionaire de l’Académie à Rome, à Paris an IV. 
     description: 2 Bände, Prachtausgabe.
     year: 
@@ -398,6 +452,7 @@
     comment: 
 -
     number: 68
+    type: folio
     title: Nuovi disegni dell’ architetture e piante di palazzi di Roma de piu celebri architetti, design. & itagl. da G.B. Falda.
     description: Lauter Kupfer.
     year: 
@@ -406,6 +461,7 @@
     comment: 
 -
     number: 69
+    type: folio
     title: Description des travaux qui ont procedé, accompagné & fuivi la fonte en bronze d’un feul jet, de la Statue équestre de Louis XV, à Paris 1768.
     description: Mit Kupfern.
     year: 
@@ -414,6 +470,7 @@
     comment: 
 -
     number: 70
+    type: folio
     title: Antiquités de la France pas Clerisseau, architecte, première partie. Paris 1778.
     description: Mit Kupfern.
     year: 
@@ -422,6 +479,7 @@
     comment: 
 -
     number: 71
+    type: folio
     title: Collection (sans titre) de 198 planches, contenants les desseins de divers meubles, & ornements de portes, cheminés, & fenêtres.
     description: 
     year: 
@@ -430,6 +488,7 @@
     comment: Goed onvindbaar voorbeeld
 -
     number: 72
+    type: folio
     title: Beschreibung aller Kirchen-Gebäude der Stadt Danzig, von Bertolt Ranisch, 1695.
     description: Mit Kupfern.
     year: 
@@ -438,6 +497,7 @@
     comment: 
 -
     number: 73
+    type: folio
     title: Columna Cochlis, M. Aurelio Antonino dicata. Romae 1704.
     description: Blos Kupf.
     year: 
@@ -446,6 +506,7 @@
     comment: 
 -
     number: 74
+    type: folio
     title: Etudes d’architecture de differents maitres Italiens, mises au jour par Dumont.
     description: Blos Kupfer.
     year: 
@@ -454,6 +515,7 @@
     comment: 
 -
     number: 75
+    type: folio
     title: Eglises des Stations de Rome, & vues de Lyon, Grenoble &c., par Dumont.
     description: Blos Kupfer.
     year: 
@@ -462,6 +524,7 @@
     comment: 
 -
     number: 76
+    type: folio
     title: Paralelle de plans des plus belles sales de spectacle d’Italie & de Erance, avec des détails de machines theatrales, par Dumont. Paris.
     description: Mit Kupfern.
     year: 
@@ -470,6 +533,7 @@
     comment: 
 -
     number: 77
+    type: folio
     title: Oeuvres d’architecture de M.J. Peyre, à Paris 1765.
     description: Mit Kupfern und Plänen.
     year: 
@@ -478,6 +542,7 @@
     comment: 
 -
     number: 78
+    type: folio
     title: Mascarade à la Grecque, par Bossi. Parma 1771.
     description: Blos Kupfer.
     year: 
@@ -486,6 +551,7 @@
     comment: 
 -
     number: 79
+    type: folio
     title: Architettura della Basilica di St. Pietro in Vaticano. Roma 1684.
     description: Mit Kupfern.
     year: 
@@ -494,6 +560,7 @@
     comment: 
 -
     number: 80
+    type: folio
     title: De la Gueppière architecture.
     description: Blos Kupfer.
     year: 
@@ -502,6 +569,7 @@
     comment: 
 -
     number: 81
+    type: folio
     title: Del palazzo de’ Cesari, opera postuma di F. Bianchini. Verona 1738.
     description: Prachtausgabe, mit Kupfern.
     year: 
@@ -510,6 +578,7 @@
     comment: 
 -
     number: 82
+    type: folio
     title: Hotels & Maisons de ville en France.
     description: Blos Kupfer.
     year: 
@@ -518,6 +587,7 @@
     comment: 
 -
     number: 83
+    type: folio
     title: Sammlung italienische Ruinen und Prospekte.
     description: Blos Kupf.
     year: 
@@ -526,6 +596,7 @@
     comment: 
 -
     number: 84
+    type: folio
     title: Stato presente degli antichi monumenti Siciliani 1767.
     description: Mit Kupfern.
     year: 
@@ -534,6 +605,7 @@
     comment: 
 -
     number: 85
+    type: folio
     title: Romanarum antiquitatum libri X, autore Bartolomaei. Basel 1583.
     description: Mit eingedruckten Holzschnitten.
     year: 
@@ -542,6 +614,7 @@
     comment: 
 -
     number: 86
+    type: folio
     title: Antiquae urbris Romae spendor. Romae 1612.
     description: Mit Kupfern.
     year: 
@@ -550,6 +623,7 @@
     comment: 
 -
     number: 87
+    type: folio
     title: Insigniorum Romae templorum prospectus, cura de Sandrat. Nürnberg.
     description: Blos Kupfer.
     year: 
@@ -558,6 +632,7 @@
     comment: 
 -
     number: 88
+    type: folio
     title: Ruinen und Ueberbleibsel von Athen und andern Gegenden Griechenlands, herausgegeben von R. Sayer in London, aus dem Englischen. Augsburg 1782.
     description: Mit Kupfern.
     year: 
@@ -566,6 +641,7 @@
     comment: 
 -
     number: 89
+    type: folio
     title: Denkmäler des alten Roms, nach Barbaults Zeichnungen, herausgegeben von Kilian. Ausburg 1767.
     description: Fast lauter Kupfer.
     year: 
@@ -574,6 +650,7 @@
     comment: 
 -
     number: 90
+    type: folio
     title: A Series of Plans for Cottages or habitations of the labourer &c., by the late G. Wood, architect. London 1792.
     description: Lauter schöne Kupfer.
     year: 
@@ -582,6 +659,7 @@
     comment: 
 -
     number: 91
+    type: folio
     title: F. Perrier Darstellung der übrig gebliebenen alten Statuen. Rom.
     description: 100 Blatt, ohne Text.
     year: 
@@ -590,6 +668,7 @@
     comment: 
 -
     number: 92
+    type: folio
     title: Dasselbe Buch nochmals.
     description: 
     year: 
@@ -598,6 +677,7 @@
     comment: 
 -
     number: 93
+    type: folio
     title: Die Perspective des P. Pozzo.
     description: Mit vielen Kupfern.
     year: 
@@ -606,6 +686,7 @@
     comment: 
 -
     number: 94
+    type: folio
     title: Traité de la perspective pratique avec des remarques sur l’architecture, par Courtonne, architecte. Paris, 1725.
     description: Mit vielen Kupfern.
     year: 
@@ -614,6 +695,7 @@
     comment: 
 -
     number: 95
+    type: folio
     title: Recueil élémentaire d’architecture, composé par l’architecte de Neuforge, à Paris 1768.
     description: 
     year: 
@@ -622,6 +704,7 @@
     comment: 
 -
     number: 96
+    type: folio
     title: Traité des manières de dessiner les ordres de l’architecture antique, par Bosse, a Paris.
     description: Ganz in Kupfer gestochen.
     year: 
@@ -630,6 +713,7 @@
     comment: 
 -
     number: 97
+    type: folio
     title: Magazin der Alterthümer, von Ch.F. Prange. Halle 1783.
     description: Mit Kupfern.
     year: 
@@ -638,6 +722,7 @@
     comment: 
 -
     number: 98
+    type: folio
     title: Abbildung der Marmorarten, herausgegeben von Wirsing. Nürnberg 1775.
     description: Mit schönen nach der Natur illuminirten Probetafeln.
     year: 
@@ -646,6 +731,7 @@
     comment: 
 -
     number: 99
+    type: folio
     title: Raccolta de Tempii e sepolcri disegnati dell antico da G.B. Montano. Roma 1638.
     description: Blos Kupfer.
     year: 
@@ -654,6 +740,7 @@
     comment: 
 -
     number: 100
+    type: folio
     title: Beschreibung der Statue zu Pferde Friedrichs V. von Dännemark in Copenhagen, 1774.
     description: Mit Kupfern.
     year: 
@@ -662,6 +749,7 @@
     comment: 
 -
     number: 101
+    type: folio
     title: Larven im Innern des Berliner Zeughauses, nach Schlüters Modellen, von B. Rode.
     description: Blos Kupfer.
     year: 
@@ -670,6 +758,7 @@
     comment: 
 -
     number: 102
+    type: folio
     title: Disegne del monte, presso Cassel 1706.
     description: Mit Kupfern.
     year: 
@@ -678,6 +767,7 @@
     comment: 
 -
     number: 103
+    type: folio
     title: Spectacles des vertus, des arts & des sciences représentés dans les palais des dieux, a Paris.
     description: Mit Kupfern.
     year: 
@@ -686,6 +776,7 @@
     comment: 
 -
     number: 104
+    type: folio
     title: Six livre de divers trophées, contenant divers attributs &c., par J.C. de la Fosse, a Paris.
     description: Blos Kupfer.
     year: 
@@ -694,6 +785,7 @@
     comment: 
 -
     number: 105
+    type: folio
     title: Plan, Aufrisse und Durchschnitte der Katholischen Kirchen zu Dresden, vom Architekten Gät. Chia[v]. Romano. Desden 1740.
     description: Blos Kupfer.
     year: 
@@ -702,6 +794,7 @@
     comment: 
 -
     number: 106
+    type: folio
     title: Entwurf einer historischen Architektur, in Abbildung unterschiedener berühmter Gebäude des Alterthums und fremder Völker. Gezeichnet von Fische[r] v. Erlach.
     description: Meist Kupfer.
     year: 
@@ -710,6 +803,7 @@
     comment: 
 -
     number: 107
+    type: folio
     title: Ansichten der vorzüglichsten Partier im Garten zu Machern.
     description: 1stes Heft.
     year: 
@@ -718,6 +812,7 @@
     comment: 
 -
     number: 108
+    type: folio
     title: Description des travaux exécutés pour le déplacement, transport & élévation des groupes de Couston, par Grobert, a Paris an IV.
     description: Geheftet.
     year: 
@@ -726,6 +821,7 @@
     comment: 
 -
     number: 109
+    type: folio
     title: L. Ch. Sturms getreue und gründliche Anweisung zu der Civil-Baukunst. Ausburg 1714.
     description: Mit Kupfern.
     year: 
@@ -734,6 +830,7 @@
     comment: 
 -
     number: 110
+    type: folio
     title: Description de la grotte de Versailles, à Paris. 1679.
     description: Mit Kupfern.
     year: 
@@ -742,6 +839,7 @@
     comment: 
 -
     number: 111
+    type: folio
     title: Eigentliche Vorstellung der Kaiserliche Bibliothek zu Wien. 1737
     description: Mit Kupfern.
     year: 
@@ -750,6 +848,7 @@
     comment: 
 -
     number: 112
+    type: folio
     title: Collection de châteaux & maisons de campagne en France.
     description: Blos Kupf.
     year: 
@@ -758,6 +857,7 @@
     comment: 
 -
     number: 113
+    type: folio
     title: Nouvelle Iconologie historique, ou attributs hyeroglophyques de divers objects, par J. Ch. de la Fosse. Paris 1768.
     description: Mit Kupfern.
     year: 
@@ -766,6 +866,7 @@
     comment: 
 -
     number: 114
+    type: folio
     title: Sale de Spectacle de Bordeaux, par M. Louis, à Paris 1782.
     description: Mit Kupfern.
     year: 
@@ -774,6 +875,7 @@
     comment: 
 -
     number: 115
+    type: folio
     title: Prospectum aedium viarumque insigniorum Venetiarum, collectio. 1763.
     description: Mit Kupfern.
     year: 
@@ -782,6 +884,7 @@
     comment: 
 -
     number: 116
+    type: folio
     title: Ordonances de cinq espèces de colonnes, selon la méthode des anciens, par M. Perrault. Paris 1683. 
     description: Mit Kupfern.
     year: 
@@ -790,6 +893,7 @@
     comment: Available from Getty
 -
     number: 117
+    type: folio
     title: Mahlerische Skizzen von Deutschland von Günther und Schlenkert.
     description: 1stes und 2tes Heft
     year: 
@@ -798,6 +902,7 @@
     comment: 
 -
     number: 118
+    type: folio
     title: L. Ch. Sturms Regel des Ebenmasses, wie sie zuvörderst an dem Erempel des Tempels Salomons wahrzunehmen. Augsburg 1720.
     description: Mit Kupfern.
     year: 
@@ -806,6 +911,7 @@
     comment: 
 -
     number: 119
+    type: folio
     title: Ausführliche Anleitung zur Civil-Baukunst von Weigel. Nürnberg.
     description: Blos Kupfer.
     year: 
@@ -814,6 +920,7 @@
     comment: 
 -
     number: 120
+    type: folio
     title: Versuch über die Harmonie der Gebäude zu den Landschaften von J. G. Klinski. Desden.
     description: Mit Kupfern.
     year: 
@@ -822,6 +929,7 @@
     comment: 
 -
     number: 121
+    type: folio
     title: Theoretisch praktische Anweisung zu Schlosser-Arbeiten [..] von Zipper. Ausburg 1795.
     description: Mit Kupfern.
     year: 
@@ -830,6 +938,7 @@
     comment: 
 -
     number: 122
+    type: folio
     title: Freudenbezeugnung der Stadt Danzig über die Wahl und Krönung Augusts II. von Polen, Gerike.
     description: Mit Kupfern.
     year: 
@@ -838,6 +947,7 @@
     comment: 
 -
     number: 123
+    type: folio
     title: Bauanschlag, oder Anweisung zu deren Fertigung von J. F. Penther. Ausburg 1753.
     description: Mit Kupfern.
     year: 
@@ -846,6 +956,7 @@
     comment: Bouwbegroting
 -
     number: 124
+    type: folio
     title: L. Ch. Sturms durch einen großen Theil von Deutschland und den Niederlanden gemachten architektonischen Reise-Anmerkungen. Augsburg 1719.
     description: Mit Kupfern.
     year: 
@@ -854,6 +965,7 @@
     comment: 
 -
     number: 125
+    type: folio
     title: Gnomonik von J. Fr. Penther. Augsburg 1734.
     description: Mit Kupfern.
     year: 
@@ -862,6 +974,7 @@
     comment: 
 -
     number: 126
+    type: folio
     title: Collection de façades & plans de divers maisons.
     description: Blos Kupfer.
     year: 
@@ -870,6 +983,7 @@
     comment: 
 -
     number: 127
+    type: folio
     title: J. R. Fäsch, dito
     description: 
     year: 
@@ -878,6 +992,7 @@
     comment: 
 -
     number: 128
+    type: folio
     title: Ragguaglio delle solenne esequie di Frederico Augusto, Re di polonia, celebrate in Roma 1733.
     description: Mit Kupfern.
     year: 
@@ -886,6 +1001,7 @@
     comment: 
 -
     number: 129
+    type: folio
     title: Rede über das Verhältniß verschiedener der vornehmsten Städte in Europa, von Langhans. 1796
     description: Mit Kupfern.
     year: 
@@ -894,6 +1010,7 @@
     comment: 
 -
     number: 130
+    type: folio
     title: Stetters Säulen-Ordnungen.
     description: Blos Kupfer.
     year: 
@@ -902,6 +1019,7 @@
     comment: 
 -
     number: 131
+    type: folio
     title: J. B. Taverniers orientalische Reisen. Genf 1631.
     description: Mit Kupfern.
     year: 
@@ -910,6 +1028,7 @@
     comment: 
 -
     number: 132
+    type: folio
     title: Traité de la construction des Théatres & des machines théatrales, par M. Rubo le fils, Maitre menusier. Paris 1777.
     description: 
     year: 
