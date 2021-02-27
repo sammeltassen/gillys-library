@@ -7,6 +7,35 @@
     year: 1762
     authors: Stuart; Revett
     digital: 
+    -
+        url: https://archive.org/details/gri_33125008667756
+        org: Volume 1 (Getty Research Institute)
+    -
+        url: https://archive.org/details/gri_33125012605529
+        org: Volume 2 (Getty Research Institute)
+    -
+        url: https://archive.org/details/gri_33125008297349
+        org: Volume 3 (Getty Research Institute)
+    -
+        url: https://archive.org/details/gri_33125008667582
+        org: Volume 4 (Getty Research Institute)
+    -
+        url: https://digi.ub.uni-heidelberg.de/diglit/stuart1825ga
+        org: Heidelberg University Library
+        thumb: https://digi.ub.uni-heidelberg.de/iiif/2/stuart1825bd1%3A00_Titelblatt.jpg/full/500,/0/default.jpg
+        manifests:
+        -
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/stuart1825bd1/manifest.json
+            title: Volume 1 (1825)
+        -
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/stuart1825bd2/manifest.json
+            title: Volume 2 (1825)
+        - 
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/stuart1827bd3/manifest.json
+            title: Volume 3 (1827)
+        -
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/stuart1830bd4/manifest.json
+            title: Volume 4 (1830) 
     comment: 
 -
     number: 4
@@ -16,6 +45,9 @@
     year: 1768
     authors: Major, F.
     digital: 
+    -
+        url: http://arachne.uni-koeln.de/books/Major1768
+        org: University of Cologne
     comment: 
 -
     number: 5 – 6
@@ -25,6 +57,9 @@
     year: 1769
     authors: Chandler; Revett; Pars
     digital: 
+    -
+        url: https://archive.org/details/gri_33125011158744
+        org: Getty Research Institute
     comment: 
 -
     number: 7
@@ -34,6 +69,14 @@
     year: 1780
     authors: Goudoin
     digital: 
+    -
+        url: https://gallica.bnf.fr/ark:/12148/bpt6k5688688j
+        org: Bibliothèque nationale de France
+        thumb: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5688688j/f8/full/500,/0/native.jpg
+        manifests:
+        -
+            url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5688688j/manifest.json
+            title: Description des écoles de chirurgie ... par M. Gondoin,...
     comment: 
 -
     number: 8
@@ -43,6 +86,22 @@
     year: 1799
     authors: Desgodetz, M.
     digital: 
+    -
+        url: https://gallica.bnf.fr/ark:/12148/btv1b9058220m
+        org: Bibliothèque nationale de France
+        thumb: https://gallica.bnf.fr/iiif/ark:/12148/btv1b9058220m/f12/full/500,/0/native.jpg
+        manifests:
+        -
+            url: https://gallica.bnf.fr/iiif/ark:/12148/btv1b9058220m/manifest.json
+            title: "« Les Edifices antiques de Rome dessinés et mesurés tres exactement par ANTOINE DESGODETZ, architecte », précédés d'une dédicace à Colbert, marquis de Seignelay."
+    -
+        url: https://digi.ub.uni-heidelberg.de/diglit/desgodets1682
+        org: Heidelberg University Library
+        thumb: https://digi.ub.uni-heidelberg.de/iiif/2/desgodets1682%3A000_a_Titelblatt.jpg/full/500,/0/default.jpg
+        manifests:
+        -
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/desgodets1682/manifest.json
+            title: "Les Edifices Antiques De Rome: Dessinés Et Mesurés Très Exactement (1682)"
     comment: 
 -
     number: 9
@@ -61,6 +120,18 @@
     year: 1764
     authors: Adam, R.
     digital: 
+    -
+        url: https://archive.org/details/RuinspalaceEmpe00Adam
+        org: Smithsonian Libraries
+    -
+        url: https://digital.library.wisc.edu/1711.dl/HR7XWVQAUI2TR8P
+        org: University of Wisconsin
+    -
+        url: https://www.royalacademy.org.uk/art-artists/book/ruins-of-the-palace-of-the-emperor-diocletian-at-spalatro-in-dalmatia-by-r
+        org: Royal Academy
+    -
+        url: https://catalog.hathitrust.org/Record/100578113
+        org: Getty Research Institute
     comment: 
 -
     number: 11
@@ -910,7 +981,7 @@
     authors: 
     digital: 
     -
-        url: http://gallica.bnf.fr/ark:/12148/btv1b85290227/f102.item
+        url: http://gallica.bnf.fr/ark:/12148/btv1b85290227/
         org: Bibliothèque nationale de France
         thumb: https://gallica.bnf.fr/iiif/ark:/12148/btv1b85290227/f7/full/500,/0/native.jpg
         manifests:
