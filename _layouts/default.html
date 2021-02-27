@@ -4,13 +4,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <title>{{ site.title }}</title>
+	<meta name="title" content="{{ site.title }}">
+	<meta name="author" content="Jules Schoonman">
+	<meta name="description" content="Digital index of the library of Berlin architect Friedrich Gilly (1772 – 1800)">
+	<meta name="keywords" content="architecture, library, folio, Gilly, Berlin, Schinkel, 1800">
+	<meta property="og:image" content="{{ '/assets/img/gilly.jpg' | absolute_url }}">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bodoni+Moda:r,ri,b,bi|UnifrakturMaguntia">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 	<script src="//cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
 	<script src="//cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" />
 	<style>
 		body {
 			font-family: "Bodoni Moda", sans-serif;
@@ -37,12 +42,20 @@
 			float: left;
 		}
 		
+		.thumb {
+			padding-left: 1em;
+		}
+		
 		.right {
+			float: right;
+		}
+		
+		.description {
 			padding-left: 5rem;
 		}
 		
 		.panel-right {
-			padding-left: 7rem;
+
 		}
 		
 		.panel {
@@ -60,6 +73,23 @@
 		.accordion {
 			cursor: pointer;
 		}
+				
+		.portrait {
+			float: right;
+			vertical-align: top;
+		}
+		
+		.portrait>img {
+			border-radius: 50%;
+			width: 300px;
+		}
+		
+		@media screen and (max-width: 800px) {
+		  .portrait {
+			float: none;
+			text-align: center;
+		  }
+		}
 	</style>
   </head>
   <body>
@@ -74,7 +104,9 @@
 			<input class="search" id="text" name="text" type="text" required="" minlength="1" placeholder="query">
 			<label>Sort by:</label>
 			<button class="sort" data-sort="title">title</button>
-			<button class="sort" data-sort="number">number</button>
+			<button class="sort" data-sort="number">number</button><br>
+			<label>Fraktur:</label>
+			<button id="fraktur">hide/show</button>
 			<ul class="list">
 			{% for folio in site.data.folios %}
 			<li><hr>
@@ -82,10 +114,10 @@
 				<div class="left">
 					<span class="number"><strong>{{ folio.number }}</strong></span>
 				</div>
-				<div class="right">
+				<div class="description">
 					<span class="title">{{ folio.title }}<span>
 					{% if folio.description %}
-					<span class="fraktur">{{ folio.description }}</span>
+					<span class="toggle fraktur">{{ folio.description }}</span>
 					{% endif %}
 				</div>
 			</div>
@@ -93,11 +125,13 @@
 				{% if folio.digital %}
 					{% for edition in folio.digital %}
 						<div class="edition">
-						<div class="left"><img width="100px" src="{{ edition.thumb }}"></div>
+						{% if edition.thumb %}
+						<div class="right thumb"><img width="100px" src="{{ edition.thumb }}"></div>
+						{% endif %}
 						<div class="panel-right"><a href="{{ edition.url }}">{{ edition.org }}</a><br>
 						{% if edition.manifests %}
 							{% for manifest in edition.manifests %}
-							<a class="manifest" href="http://universalviewer.io/uv.html?manifest={{ manifest.url }}">{{ manifest.title }}</a><br>
+							<a class="manifest" href="http://uv-v4.netlify.app/uv.html#?manifest={{ manifest.url }}">{{ manifest.title }}</a><br>
 							{% endfor %}
 						{% endif %}
 						</div>
@@ -138,6 +172,10 @@
 	  $('.manifest').magnificPopup({
 	  type:'iframe'
 	  });
+	});
+	
+	$( "#fraktur" ).click(function() {
+	  $( ".toggle" ).toggleClass( "fraktur" );
 	});
 	</script>
   </body>

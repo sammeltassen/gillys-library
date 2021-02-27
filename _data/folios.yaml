@@ -654,7 +654,15 @@
     description: Mit Kupfern.
     year: 
     authors: 
-    digital: http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11193486_00005.html
+    digital: 
+    -
+        url: http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11193486_00005.html
+        org: Bayerische Staatsbibliothek
+        thumb: https://api.digitale-sammlungen.de/iiif/image/v2/bsb11193486_00005/full/500,/0/default.jpg
+        manifests:
+        -
+            url: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11193486/manifest
+            title: "Ruinen und Ueberbleibsel von Athen: nebst andern merkwürdigen Alterthümern Griechenlands ; nun mit einem aus der englischen Beschreibung zur Erläuterung derselben kurzverfaßten historischen Auszuge nach dem englischen Original (1782)"
     comment: 
 -
     number: 89
@@ -744,7 +752,10 @@
     description: Mit schönen nach der Natur illuminirten Probetafeln.
     year: 
     authors: 
-    digital: http://digital.slub-dresden.de/werkansicht/dlf/11062/1/
+    digital: 
+    -
+        url: http://digital.slub-dresden.de/werkansicht/dlf/11062/1/
+        org: SLUB Dresden
     comment: 
 -
     number: 99
@@ -780,7 +791,10 @@
     description: Mit Kupfern.
     year: 
     authors: 
-    digital: http://daten.digitale-sammlungen.de/~db/0006/bsb00065660/images/
+    digital:
+    - 
+        url: http://daten.digitale-sammlungen.de/~db/0006/bsb00065660/images/
+        org: Bayerische Staatsbibliothek
     comment: 
 -
     number: 103
@@ -816,7 +830,15 @@
     description: Meist Kupfer.
     year: 
     authors: 
-    digital: http://digi.ub.uni-heidelberg.de/diglit/fischer1725
+    digital: 
+    -
+        url: http://digi.ub.uni-heidelberg.de/diglit/fischer1725
+        org: Heidelberg University Library
+        thumb: https://digi.ub.uni-heidelberg.de/iiif/2/fischer1725%3A001.jpg/full/500,/0/default.jpg
+        manifests:
+        -
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/fischer1725/manifest.json
+            title: "Entwurff Einer Historischen Architectur: in Abbildung unterschiedener berühmten Gebäude des Alterthums und fremder Völcker ; umb aus den Geschicht-büchern, Gedächtnüß-münzen, Ruinen, und eingeholten wahrhafften Abrißen, vor Augen zu stellen (1725)"
     comment: 
 -
     number: 107
@@ -852,7 +874,14 @@
     description: Mit Kupfern.
     year: 
     authors: 
-    digital: http://bibliotheque-numerique.inha.fr/collection/11700-description-de-la-grotte-de-versailles/
+    digital: 
+    -
+        url: http://bibliotheque-numerique.inha.fr/collection/11700-description-de-la-grotte-de-versailles/
+        org: Bibliothèque de l'Institut National d'Histoire de l'Art
+        manifests:
+        -
+            url: https://bibliotheque-numerique.inha.fr/iiif/15741/manifest
+            title: Description de la Grotte de Versailles (1679)
     comment: 
 -
     number: 111
@@ -879,7 +908,15 @@
     description: Mit Kupfern.
     year: 
     authors: 
-    digital: http://gallica.bnf.fr/ark:/12148/btv1b85290227/f102.item
+    digital: 
+    -
+        url: http://gallica.bnf.fr/ark:/12148/btv1b85290227/f102.item
+        org: Bibliothèque nationale de France
+        thumb: https://gallica.bnf.fr/iiif/ark:/12148/btv1b85290227/f7/full/500,/0/native.jpg
+        manifests:
+        -
+            url: https://gallica.bnf.fr/iiif/ark:/12148/btv1b85290227/manifest.json
+            title: "Nouvelle iconologie historique, ou Attributs hiéroglyphiques qui ont pour objets les quatre éléments, les quatre saisons, les quatre parties du monde et les différentes complexions de l'homme / par Jean Charles Delafosse architecte, décorateur et professeur en desseins. (1768)"
     comment: 
 -
     number: 114
@@ -906,7 +943,10 @@
     description: Mit Kupfern.
     year: 
     authors: 
-    digital: http://architectura.cesr.univ-tours.fr/Traite/Notice/ENSBA1273.asp?param=en
+    digital: 
+    -
+        url: http://architectura.cesr.univ-tours.fr/Traite/Notice/ENSBA1273.asp?param=en
+        org: Centre d'Études Supérieures de la Renaissance
     comment: Available from Getty
 -
     number: 117
@@ -942,7 +982,10 @@
     description: Mit Kupfern.
     year: 
     authors: 
-    digital: http://daten.digitale-sammlungen.de/~db/0007/bsb00074561/images/index.html?seite=00001&l=en
+    digital: 
+    -
+        url: http://daten.digitale-sammlungen.de/~db/0007/bsb00074561/images/index.html?seite=00001&l=en
+        org: Bavarian State Library
     comment: 
 -
     number: 121
@@ -1023,7 +1066,15 @@
     description: Mit Kupfern.
     year: 
     authors: 
-    digital: http://gdz.sub.uni-goettingen.de/dms/load/img/?PID=PPN806821353
+    digital: 
+    -
+        url: http://gdz.sub.uni-goettingen.de/dms/load/img/?PID=PPN806821353
+        org: SUB Göttingen
+        thumb: https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN806821353:00000007/full/500,/0/default.jpg
+        manifests:
+        -
+            url: https://manifests.sub.uni-goettingen.de/iiif/presentation/PPN806821353/manifest
+            title: Rede Über Das Verhältniss Verschiedener Der Vornehmsten Städte Von Europa (1796)
     comment: 
 -
     number: 130
