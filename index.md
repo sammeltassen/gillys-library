@@ -5,7 +5,7 @@ title: "Gilly's Library"
 
 # Gilly's Library
 
-This website is an attempt to digitally reconstruct the library of Berlin architect Friedrich Gilly (1772 – 1800).
+This website provides a digital index of the library of Berlin architect Friedrich Gilly (1772 – 1800), with the aim to add links to digital editions when available. The index currently only includes the folios.
 
 Digital edition of original library index: 
 - [*Verzeichnis der von dem verstorbenen Professor und Hof-Bau-Inspektor Gilly hinterlassenen auserlesenen
