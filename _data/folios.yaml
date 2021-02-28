@@ -8,22 +8,26 @@
     authors: Stuart; Revett
     digital: 
     -
-        url: https://archive.org/details/gri_33125008667756
-        org: Volume 1 (Getty Research Institute)
-    -
-        url: https://archive.org/details/gri_33125012605529
-        org: Volume 2 (Getty Research Institute)
-    -
-        url: https://archive.org/details/gri_33125008297349
-        org: Volume 3 (Getty Research Institute)
-    -
-        url: https://archive.org/details/gri_33125008667582
-        org: Volume 4 (Getty Research Institute)
+        url: https://archive.org/search.php?query=The+antiqvities+of+Athens&&and[]=collection%3A%22getty%22
+        org: Getty Research Institute
+        links:
+        -
+            url: https://archive.org/embed/gri_33125008667756
+            title: Volume 1 (1762)
+        -
+            url: https://archive.org/embed/gri_33125012605529
+            title: Volume 2 (1762)
+        -
+            url: https://archive.org/embed/gri_33125008297349
+            title: Volume 3 (1762)
+        -
+            url: https://archive.org/embed/gri_33125008667582
+            title: Volume 4 (1762)
     -
         url: https://digi.ub.uni-heidelberg.de/diglit/stuart1825ga
         org: Heidelberg University Library
         thumb: https://digi.ub.uni-heidelberg.de/iiif/2/stuart1825bd1%3A00_Titelblatt.jpg/full/500,/0/default.jpg
-        manifests:
+        links:
         -
             url: https://digi.ub.uni-heidelberg.de/diglit/iiif/stuart1825bd1/manifest.json
             title: Volume 1 (1825)
@@ -73,7 +77,7 @@
         url: https://gallica.bnf.fr/ark:/12148/bpt6k5688688j
         org: Bibliothèque nationale de France
         thumb: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5688688j/f8/full/500,/0/native.jpg
-        manifests:
+        links:
         -
             url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5688688j/manifest.json
             title: Description des écoles de chirurgie ... par M. Gondoin,...
@@ -90,7 +94,7 @@
         url: https://gallica.bnf.fr/ark:/12148/btv1b9058220m
         org: Bibliothèque nationale de France
         thumb: https://gallica.bnf.fr/iiif/ark:/12148/btv1b9058220m/f12/full/500,/0/native.jpg
-        manifests:
+        links:
         -
             url: https://gallica.bnf.fr/iiif/ark:/12148/btv1b9058220m/manifest.json
             title: "« Les Edifices antiques de Rome dessinés et mesurés tres exactement par ANTOINE DESGODETZ, architecte », précédés d'une dédicace à Colbert, marquis de Seignelay."
@@ -98,7 +102,7 @@
         url: https://digi.ub.uni-heidelberg.de/diglit/desgodets1682
         org: Heidelberg University Library
         thumb: https://digi.ub.uni-heidelberg.de/iiif/2/desgodets1682%3A000_a_Titelblatt.jpg/full/500,/0/default.jpg
-        manifests:
+        links:
         -
             url: https://digi.ub.uni-heidelberg.de/diglit/iiif/desgodets1682/manifest.json
             title: "Les Edifices Antiques De Rome: Dessinés Et Mesurés Très Exactement (1682)"
@@ -179,14 +183,14 @@
     digital: 
     comment: 
 -
-    number: 16 – 17
+    number: "[16 – 17]"
     type: folio
     title: Le loggie di Rafaele Sanctio d’Urbino nel Vaticano
     description: Lauter schöne Kupfer
     year: 
     authors: 
     digital: 
-    comment: wrong numbers 
+    comment:
 -
     number: 18
     type: folio
@@ -268,6 +272,7 @@
     authors: 
     digital: 
     comment: 
+    fraktur: yes
 -
     number: 34
     type: folio
@@ -277,6 +282,7 @@
     authors: 
     digital: 
     comment: 
+    fraktur: yes
 -
     number: 35
     type: folio
@@ -412,6 +418,7 @@
     authors: 
     digital: 
     comment: 
+    fraktur: yes
 -
     number: 52
     type: folio
@@ -482,12 +489,13 @@
     description: Mit vielen Kupfern, 1781, 4 Bände.
     year: 1781
     authors: 
+    fraktur: yes
     digital:
     -
         org: Universitätsbibliothek Heidelberg
         url: http://digi.ub.uni-heidelberg.de/diglit/murr1777ga
         thumb: https://digi.ub.uni-heidelberg.de/iiif/2/murr1777bd1%3A0000e.jpg/full/500,/0/default.jpg
-        manifests:
+        links:
         -
             title: Volume 1 (1777)
             url: https://digi.ub.uni-heidelberg.de/diglit/iiif/murr1777bd1/manifest.json
@@ -509,7 +517,10 @@
     -
         org: Bayerische Staatsbibliothek
         url: http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10222209-2
-        manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10222207/manifest
+        links:
+        -
+            title: "Abbildungen der Gemälde und Alterthümer, welche seit 1738. sowohl in der verschütteten Stadt Herkulanum, als auch in den umliegenden Gegenden an das Licht gebracht worden, nebst ihrer Erklärung (1777 - 1799)"
+            url: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10222207/manifest
         thumb: https://api.digitale-sammlungen.de/iiif/image/v2/bsb10222207_00005/full/500,/0/default.jpg
 -
     number: 63
@@ -528,6 +539,7 @@
     year: 
     authors: 
     digital: 
+    fraktur: yes
     comment: 
 -
     number: 66 – 67
@@ -582,6 +594,7 @@
     year: 
     authors: 
     digital: 
+    fraktur: yes
     comment: 
 -
     number: 73
@@ -684,6 +697,7 @@
     year: 
     authors: 
     digital: 
+    fraktur: yes
     comment: 
 -
     number: 84
@@ -728,12 +742,13 @@
     description: Mit Kupfern.
     year: 
     authors: 
+    fraktur: yes
     digital: 
     -
         url: http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11193486_00005.html
         org: Bayerische Staatsbibliothek
         thumb: https://api.digitale-sammlungen.de/iiif/image/v2/bsb11193486_00005/full/500,/0/default.jpg
-        manifests:
+        links:
         -
             url: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11193486/manifest
             title: "Ruinen und Ueberbleibsel von Athen: nebst andern merkwürdigen Alterthümern Griechenlands ; nun mit einem aus der englischen Beschreibung zur Erläuterung derselben kurzverfaßten historischen Auszuge nach dem englischen Original (1782)"
@@ -746,6 +761,7 @@
     year: 
     authors: 
     digital: 
+    fraktur: yes
     comment: 
 -
     number: 90
@@ -764,6 +780,7 @@
     year: 
     authors: 
     digital: 
+    fraktur: yes
     comment: 
 -
     number: 92
@@ -773,6 +790,7 @@
     year: 
     authors: 
     digital: 
+    fraktur: yes
     comment: 
 -
     number: 93
@@ -782,6 +800,7 @@
     year: 
     authors: 
     digital: 
+    fraktur: yes
     comment: 
 -
     number: 94
@@ -818,6 +837,7 @@
     year: 
     authors: 
     digital: 
+    fraktur: yes
     comment: 
 -
     number: 98
@@ -826,6 +846,7 @@
     description: Mit schönen nach der Natur illuminirten Probetafeln.
     year: 
     authors: 
+    fraktur: yes
     digital: 
     -
         url: http://digital.slub-dresden.de/werkansicht/dlf/11062/1/
@@ -848,6 +869,7 @@
     year: 
     authors: 
     digital: 
+    fraktur: yes
     comment: 
 -
     number: 101
@@ -857,6 +879,7 @@
     year: 
     authors: 
     digital: 
+    fraktur: yes
     comment: 
 -
     number: 102
@@ -896,6 +919,7 @@
     year: 
     authors: 
     digital: 
+    fraktur: yes
     comment: 
 -
     number: 106
@@ -904,12 +928,13 @@
     description: Meist Kupfer.
     year: 
     authors: 
+    fraktur: yes
     digital: 
     -
         url: http://digi.ub.uni-heidelberg.de/diglit/fischer1725
         org: Heidelberg University Library
         thumb: https://digi.ub.uni-heidelberg.de/iiif/2/fischer1725%3A001.jpg/full/500,/0/default.jpg
-        manifests:
+        links:
         -
             url: https://digi.ub.uni-heidelberg.de/diglit/iiif/fischer1725/manifest.json
             title: "Entwurff Einer Historischen Architectur: in Abbildung unterschiedener berühmten Gebäude des Alterthums und fremder Völcker ; umb aus den Geschicht-büchern, Gedächtnüß-münzen, Ruinen, und eingeholten wahrhafften Abrißen, vor Augen zu stellen (1725)"
@@ -922,6 +947,7 @@
     year: 
     authors: 
     digital: 
+    fraktur: yes
     comment: 
 -
     number: 108
@@ -940,6 +966,7 @@
     year: 
     authors: 
     digital: 
+    fraktur: yes
     comment: 
 -
     number: 110
@@ -952,7 +979,7 @@
     -
         url: https://bibliotheque-numerique.inha.fr/idurl/1/15741
         org: Bibliothèque de l'Institut National d'Histoire de l'Art
-        manifests:
+        links:
         -
             url: https://bibliotheque-numerique.inha.fr/iiif/15741/manifest
             title: Description de la Grotte de Versailles (1679)
@@ -965,6 +992,7 @@
     year: 
     authors: 
     digital: 
+    fraktur: yes
     comment: 
 -
     number: 112
@@ -987,7 +1015,7 @@
         url: http://gallica.bnf.fr/ark:/12148/btv1b85290227/
         org: Bibliothèque nationale de France
         thumb: https://gallica.bnf.fr/iiif/ark:/12148/btv1b85290227/f7/full/500,/0/native.jpg
-        manifests:
+        links:
         -
             url: https://gallica.bnf.fr/iiif/ark:/12148/btv1b85290227/manifest.json
             title: "Nouvelle iconologie historique, ou Attributs hiéroglyphiques qui ont pour objets les quatre éléments, les quatre saisons, les quatre parties du monde et les différentes complexions de l'homme / par Jean Charles Delafosse architecte, décorateur et professeur en desseins. (1768)"
@@ -1030,6 +1058,7 @@
     year: 
     authors: 
     digital: 
+    fraktur: yes
     comment: 
 -
     number: 118
@@ -1039,6 +1068,7 @@
     year: 
     authors: 
     digital: 
+    fraktur: yes
     comment: 
 -
     number: 119
@@ -1048,6 +1078,7 @@
     year: 
     authors: 
     digital: 
+    fraktur: yes
     comment: 
 -
     number: 120
@@ -1056,6 +1087,7 @@
     description: Mit Kupfern.
     year: 
     authors: 
+    fraktur: yes
     digital: 
     -
         url: http://daten.digitale-sammlungen.de/~db/0007/bsb00074561/images/index.html?seite=00001&l=en
@@ -1068,7 +1100,8 @@
     description: Mit Kupfern.
     year: 
     authors: 
-    digital: 
+    digital:
+    fraktur: yes
     comment: 
 -
     number: 122
@@ -1078,6 +1111,7 @@
     year: 
     authors: 
     digital: 
+    fraktur: yes
     comment: 
 -
     number: 123
@@ -1087,6 +1121,7 @@
     year: 
     authors: 
     digital: 
+    fraktur: yes
     comment: Bouwbegroting
 -
     number: 124
@@ -1096,6 +1131,7 @@
     year: 
     authors: 
     digital: 
+    fraktur: yes
     comment: 
 -
     number: 125
@@ -1105,6 +1141,7 @@
     year: 
     authors: 
     digital: 
+    fraktur: yes
     comment: 
 -
     number: 126
@@ -1123,6 +1160,7 @@
     year: 
     authors: 
     digital: 
+    fraktur: yes
     comment: 
 -
     number: 128
@@ -1140,12 +1178,13 @@
     description: Mit Kupfern.
     year: 
     authors: 
+    fraktur: yes
     digital: 
     -
         url: http://gdz.sub.uni-goettingen.de/dms/load/img/?PID=PPN806821353
         org: SUB Göttingen
         thumb: https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN806821353:00000007/full/500,/0/default.jpg
-        manifests:
+        links:
         -
             url: https://manifests.sub.uni-goettingen.de/iiif/presentation/PPN806821353/manifest
             title: Rede Über Das Verhältniss Verschiedener Der Vornehmsten Städte Von Europa (1796)
@@ -1158,6 +1197,7 @@
     year: 
     authors: 
     digital: 
+    fraktur: yes
     comment: 
 -
     number: 131
@@ -1167,6 +1207,7 @@
     year: 
     authors: 
     digital: 
+    fraktur: yes
     comment: 
 -
     number: 132

@@ -120,7 +120,7 @@
 					<span class="number"><strong>{{ folio.number }}</strong></span>
 				</div>
 				<div class="description">
-					<span class="title">{{ folio.title }}<span>
+					<span class="title {% if folio.fraktur %}fraktur{% endif %}">{{ folio.title }}<span>
 					{% if folio.description %}
 					<span class="toggle fraktur">{{ folio.description }}</span>
 					{% endif %}
@@ -134,9 +134,9 @@
 						<div class="right thumb"><img width="100px" src="{{ edition.thumb }}"></div>
 						{% endif %}
 						<div class="panel-right"><a href="{{ edition.url }}">{{ edition.org }}</a><br>
-						{% if edition.manifests %}
-							{% for manifest in edition.manifests %}
-							<a class="manifest" href="assets/uv/uv.html#?manifest={{ manifest.url }}">{{ manifest.title }}</a><br>
+						{% if edition.links %}
+							{% for link in edition.links %}
+							<a class="manifest" href="{% if link.url contains "manifest" %}assets/uv/uv.html#?manifest={% endif %}{{ link.url }}">{{ link.title }}</a><br>
 							{% endfor %}
 						{% endif %}
 						</div>
@@ -145,7 +145,7 @@
 					{% else %}
 					<span>No digital editions added (yet).</span><br>
 				{% endif %}
-				<div class="edition"><a href="http://www.google.com/search?q={{ folio.title | url_encode }}">Search title on Google</a></div>
+				<div class="edition"><a href="http://www.google.com/search?q={{ folio.title | replace: "[", "" | replace: "]", "" | url_encode }}">Search title on Google</a></div>
 			</div>
 			</li>
 			{% endfor %}
