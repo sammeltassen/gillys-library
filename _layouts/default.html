@@ -111,7 +111,7 @@
 			<button class="sort" data-sort="title">title</button>
 			<button class="sort" data-sort="number">number</button><br>
 			<label>Fraktur:</label>
-			<button id="fraktur">hide/show</button>
+			<button id="fraktur">toggle</button>
 			<ul class="list">
 			{% for folio in site.data.folios %}
 			<li><hr>
@@ -120,7 +120,7 @@
 					<span class="number"><strong>{{ folio.number }}</strong></span>
 				</div>
 				<div class="description">
-					<span class="title {% if folio.fraktur %}fraktur{% endif %}">{{ folio.title }}<span>
+					<span class="title {% if folio.fraktur %}fraktur toggle{% endif %}">{{ folio.title }}<span>
 					{% if folio.description %}
 					<span class="toggle fraktur">{{ folio.description }}</span>
 					{% endif %}
