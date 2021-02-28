@@ -143,8 +143,9 @@
 						</div>
 					{% endfor %}
 					{% else %}
-					<span>No digital editions added (yet). <a href="http://www.google.com/search?q={{ folio.title }}">Search title on Google</a></span>	
+					<span>No digital editions added (yet).</span><br>
 				{% endif %}
+				<a href="http://www.google.com/search?q={{ folio.title | url_encode }}">Search title on Google</a>
 			</div>
 			</li>
 			{% endfor %}
