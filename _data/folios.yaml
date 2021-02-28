@@ -145,6 +145,20 @@
     year: 
     authors: 
     digital: 
+    -
+        url: https://gallica.bnf.fr/ark:/12148/bpt6k106727b
+        org: Bibliothèque nationale de France
+        links:
+        -
+            url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k106727b/manifest.json
+            title: "Palais, maisons, et autres édifices modernes, dessinés à Rome / publiés à Paris, l'an VI de la République française (1798, v. st.) [par Ch. Percier, P.-F.-L. Fontaine et Bernier]"
+    -
+        url: https://bibliotheque-numerique.inha.fr/idurl/1/15932
+        org: Institut national d'histoire de l'art
+        links:
+        -
+            url: https://bibliotheque-numerique.inha.fr/iiif/15932/manifest
+            title: "Palais, maisons, et autres édifices modernes, dessinés à Rome, publiés à Paris, l'an 6 de la République française (1798, v. st.)"
     comment: 
 -
     number: 12
@@ -163,6 +177,13 @@
     year: 
     authors: 
     digital: 
+    -
+        url: https://gallica.bnf.fr/ark:/12148/bpt6k856659g
+        org: Bibliothèque nationale de France
+        links:
+        -
+            url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k856659g/manifest.json
+            title: "Choix de costumes civils et militaires des peuples de l'antiquité, leurs instrumens de musique, leurs meubles et les décorations intérieures de leurs maisons d'après les monumens antiques, avec un texte tiré des anciens auteurs, dessiné, gravé et rédigé par N.-X. Willemin"
     comment: 
 -
     number: 14
@@ -172,6 +193,16 @@
     year: 
     authors: 
     digital: 
+    -
+        url: http://arachne.uni-koeln.de/item/buch/1198
+        org: University of Cologne
+    -
+        url: https://gallica.bnf.fr/ark:/12148/bpt6k5542340g
+        org: Bibliothèque nationale de France
+        links:
+        -
+            url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5542340g/manifest.json
+            title: "Arabesques antiques des bains de Livie et de la ville adrienne, avec les plafonds de la Ville-Madame : peints d'après les dessins de Raphaël et gravés par les soins de M. Ponce,... (Nouvelle édition) (1838)"
     comment: 
 -
     number: 15
@@ -181,6 +212,23 @@
     year: 
     authors: 
     digital: 
+    -
+        url: https://archive.org/details/gri_33125009324597
+        org: Getty Research Institute
+        links:
+        -
+            url: https://archive.org/embed/gri_33125009324597
+            title: "Les ruines des plus beaux monuments de la Grece : ouvrage divisé en deux parties, où l'on considere, dans la premiere, ces monuments du côté de l'histoire : et dans la seconde, du côté de l'architecture"
+    -
+        url: https://gallica.bnf.fr/ark:/12148/bpt6k854533n
+        org: Bibliothèque nationale de France
+        links:
+        -
+            url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k854533n/manifest.json
+            title: "Les Ruines des plus beaux monuments de la Grèce considérées du côté de l'histoire et du côté de l'architecture, par M. Le Roy,... 2e édition... (1770)"
+    -
+        url: http://arachne.uni-koeln.de/item/buch/276
+        org: University of Cologne
     comment: 
 -
     number: "[16 – 17]"
@@ -190,6 +238,13 @@
     year: 
     authors: 
     digital: 
+    -
+        url: https://archive.org/details/gri_33125008626158
+        org: Getty Research Institute
+        links:
+        -
+            url: https://archive.org/embed/gri_33125008626158
+            title: Loggie di Rafaele nel Vaticano (1772)
     comment:
 -
     number: 18
@@ -978,7 +1033,7 @@
     digital: 
     -
         url: https://bibliotheque-numerique.inha.fr/idurl/1/15741
-        org: Bibliothèque de l'Institut National d'Histoire de l'Art
+        org: Institut National d'Histoire de l'Art
         links:
         -
             url: https://bibliotheque-numerique.inha.fr/iiif/15741/manifest
