@@ -133,7 +133,7 @@
 						{% if edition.thumb %}
 						<div class="right thumb"><img width="100px" src="{{ edition.thumb }}"></div>
 						{% endif %}
-						<div class="panel-right"><a href="{{ edition.url }}">{{ edition.org }}</a><br>
+						<div class="panel-right"><a target="_blank" href="{{ edition.url }}">{{ edition.org }}</a><br>
 						{% if edition.links %}
 							{% for link in edition.links %}
 							<a class="manifest" href="{% if link.url contains "manifest" %}assets/uv/uv.html#?manifest={% endif %}{{ link.url }}">{{ link.title }}</a><br>
@@ -145,7 +145,7 @@
 					{% else %}
 					<span>No digital editions added (yet).</span><br>
 				{% endif %}
-				<div class="edition"><a href="http://www.google.com/search?q={{ folio.title | replace: "[", "" | replace: "]", "" | url_encode }}">Search title on Google</a></div>
+				<div class="edition"><a target="_blank" href="http://www.google.com/search?q={{ folio.title | replace: "[", "" | replace: "]", "" | url_encode }}">Search title on Google</a></div>
 			</div>
 			</li>
 			{% endfor %}
