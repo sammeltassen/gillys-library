@@ -272,6 +272,33 @@
     year: 
     authors: 
     digital: 
+    -
+        url: https://www.e-rara.ch/zut/content/titleinfo/4859300
+        org: ETH-Bibliothek Zürich
+        links:
+        -
+            url: https://www.e-rara.ch/i3f/v20/4859300/manifest
+            title: "Voyage pittoresque ou description des royaumes de Naples et de Sicile"
+    -
+        url: https://digi.ub.uni-heidelberg.de/diglit/saintnon1781ga
+        org: Universitätsbibliothek Heidelberg
+        links:
+        -
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/saintnon1781/manifest.json
+            title: Volume 1.1 (1781)
+        -
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/saintnon1782/manifest.json
+            title: Volume 1.2 (1782)
+        -
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/saintnon1783/manifest.json
+            title: Volume 3 (1783)
+        -
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/saintnon1785bd4_1/manifest.json
+            title: Volume 4.1 (1785)
+        -
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/saintnon1786bd4_2/manifest.json
+            title: Volume 4.2 (1786)
+        
     comment: 
 -
     number: 25
