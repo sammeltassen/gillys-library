@@ -1,2 +1,80 @@
 ---
 ---
+body {
+	font-family: "Bodoni Moda", sans-serif;
+	}
+
+ul.list { 
+	list-style-type: none; 
+	padding: 0;
+	}
+
+.fraktur {
+	font-family: "UnifrakturMaguntia", sans-serif;
+}
+
+.type {
+	display: none;
+	font-family: "UnifrakturMaguntia", sans-serif;
+}
+
+.title {
+}
+
+.left {
+	float: left;
+}
+
+.thumb {
+	padding-left: 1em;
+}
+
+.right {
+	float: right;
+}
+
+.description {
+	padding-left: 5rem;
+}
+
+.panel-right {
+
+}
+
+.panel {
+	padding-left: 5rem;
+	max-height: 0;
+	overflow: hidden;
+	transition: max-height 0.2s ease-out;
+}
+
+.edition {
+	clear:both;
+	padding-top: 1rem;
+}
+
+.accordion {
+	cursor: pointer;
+}
+		
+.portrait {
+	float: right;
+	vertical-align: top;
+}
+
+.portrait>img {
+	border-radius: 50%;
+	width: 300px;
+}
+
+.mfp-iframe-holder .mfp-content {
+	 max-width: 1000px;
+	 height: 100%;
+}
+
+@media screen and (max-width: 800px) {
+  .portrait {
+	float: none;
+	text-align: center;
+  }
+}
