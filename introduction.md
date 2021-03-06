@@ -2,7 +2,7 @@
 layout: article
 title: "Gilly's Library"
 ---
-Introduction by Barry Bergdoll
+By Barry Bergdoll
 
 *Review of: Die Büchersammlung Friedrich Gillys (1772–1800): Provenienz und Schicksal einer Architektenbibliothek im theoretischen Kontext des 18. Jahrhunderts. By Michael Bollé and Maria Ocón Fernández. Originally published in: The Burlington Magazine 162, December 2020. Republished here with the author's permission.*
 
