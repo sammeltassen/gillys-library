@@ -424,6 +424,13 @@
     year: 
     authors: 
     digital: 
+    -
+        url: https://archive.org/details/gri_33125010859516
+        org: Getty Research Institute
+        links:
+        -
+            url: https://archive.org/embed/gri_33125010859516
+            title: "Alcune vedute di archi trionfali ed altri monumenti : inalzati da Romani parte de quali si veggono in Roma, e parte per l'Italia"
     comment: 
 -
     number: 33
@@ -433,6 +440,19 @@
     year: 
     authors: 
     digital: 
+    -
+        url: https://archive.org/details/gri_33125011111214
+        org: Getty Research Institute
+        links:
+        -
+            url: https://archive.org/embed/gri_33125011111214
+            title: Vedvte di Roma (1779)
+    -
+        url: https://archive.org/details/gri_33125010907554
+        org: Getty Research Institute
+        -
+            url: https://archive.org/embed/gri_33125010907554
+            title: Vedvte di Roma (1779)
     comment: 
     fraktur: yes
 -
@@ -443,6 +463,20 @@
     year: 
     authors: 
     digital: 
+    -
+        url: https://archive.org/details/gri_33125011183007
+        org: Getty Research Institute
+        links:
+        -
+            url: https://archive.org/embed/gri_33125011183007
+            title: "Diversi maniere d'adornare i cammini : ed ogni altra parte degli edifizj desunte dall'architettura Egizia, Etrusca, e Greca con un Ragionamento apologetico in difesa dell'architettura Egizia e Toscana"
+    -
+        url: https://gallica.bnf.fr/ark:/12148/btv1b53094841h
+        org: Bibliothèque nationale de France
+        links:
+        -
+            url: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53094841h/manifest.json
+            title: "Diversi maniere d'adornare i cammini : ed ogni altra parte degli edifizj desunte dall'architettura Egizia, Etrusca, e Greca con un ragionamento apologetico in difesa dell'architettura Egizia e Toscana ... ([1ère édition]) / Opera del cavaliere Giambattista Piranesi architetto"
     comment: 
     fraktur: yes
 -
@@ -453,6 +487,20 @@
     year: 
     authors: 
     digital: 
+    -
+        url: https://doi.org/10.3931/e-rara-13753
+        org: ETH-Bibliothek Zürich
+        links:
+        -
+            url: https://www.e-rara.ch/i3f/v20/4213864/manifest
+            title: "Ioannis Baptistae Piranesii ... De Romanorum magnificentia et architectura = : Della magnificenza ed architettura de' Romani / opera di Giovanni Battista Piranesi ..."
+    -
+        url: https://archive.org/details/ioannisbaptista00pira
+        org: Smithsonian Libraries
+        links:
+        -
+            url: https://archive.org/embed/ioannisbaptista00pira
+            title: "Ioannis-Baptistae Piranesii antiquariorum regiae societatis Londinensis socii De Romanorum magnificentia et architectura"
     comment: 
 -
     number: 36
