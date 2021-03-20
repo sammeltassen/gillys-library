@@ -50,7 +50,7 @@
     authors: Major, F.
     digital: 
     -
-        url: http://arachne.uni-koeln.de/books/Major1768
+        url: https://arachne.dainst.org/entity/1282161
         org: University of Cologne
     comment: 
 -
@@ -113,8 +113,23 @@
     title: 'Prix de l''académie d''architecture de Paris. Collection de divers plans en contours.'
     description: Oeuvre très rare.
     year: "?"
-    authors: L’academie d’architecture de Paris
+    authors: Cléemputte
     digital: 
+    -
+        url: https://bibliotheque-numerique.inha.fr/idurl/1/30722
+        org: Institut national d'histoire de l'art
+        thumb: https://bibliotheque-numerique.inha.fr/i/?IIIF=/18/2b/89/7b/182b897b-7731-42a9-a03a-49dd12782368/iiif/0629_doucet_FEST441_000009.tif/full/500,/0/default.jpg
+        links:
+        -
+            url: https://bibliotheque-numerique.inha.fr/iiif/30722/manifest
+            title: "Recueil des prix proposés et couronnés par l'Académie d'architecture, enrichi des plans, coupes et vues des plus jolies maisons de Paris"
+    -
+        url: https://gallica.bnf.fr/ark:/12148/btv1b10515392t
+        org: Bibliothèque nationale de France
+        links:
+        -
+            url: https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515392t/manifest.json
+            title: "Collection des prix que la ci-devant Académie d'Architecture proposoit et couronnoit tous les ans, gravée au trait, imprimée sur papier propre être lavé. Tome premier / [gravés par Amant-Parfait Prieur et Pierre-Louis Van Cleemputte]"
     comment: 
 -
     number: 10
@@ -166,8 +181,15 @@
     title: Gallerie antique, ou collection des chef-d’oeuvres d’architecture, sculpture & peinture antiques.
     description: 6 livraisons, avec 74 planches.
     year: 
-    authors: 
+    authors: Legrand
     digital: 
+    -
+        url: https://gallica.bnf.fr/ark:/12148/bpt6k42464790
+        org: Bibliothèque nationale de France
+        links: 
+        -
+            url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k42464790/manifest.json
+            title: "Monumens de la Grèce, ou Collection des chefs-d'oeuvre d'architecture, de sculpture et de peinture antiques... par J.-G. Legrand,... T. I (1808)"
     comment: 
 -
     number: 13
@@ -194,7 +216,7 @@
     authors: 
     digital: 
     -
-        url: http://arachne.uni-koeln.de/item/buch/1198
+        url: arachne.dainst.org/entity/15897
         org: University of Cologne
     -
         url: https://gallica.bnf.fr/ark:/12148/bpt6k5542340g
@@ -228,7 +250,7 @@
             title: "Les Ruines des plus beaux monuments de la Grèce considérées du côté de l'histoire et du côté de l'architecture, par M. Le Roy,... 2e édition... (1770)"
     -
         url: http://arachne.uni-koeln.de/item/buch/276
-        org: University of Cologne
+        org: arachne.dainst.org/entity/15231
     comment: 
 -
     number: "[16 – 17]"
@@ -254,6 +276,9 @@
     year: 
     authors: 
     digital: 
+    -
+        url: https://hdl.handle.net/2027/gri.ark:/13960/t0gv00k0c
+        org: Getty Research Institute
     comment: 
 -
     number: 19
@@ -261,8 +286,18 @@
     title: Les ruines de Balbec, autrement dite Heliopolis dans la Coelosyrie, à Londres 1757.
     description: Prachtausgabe, mit schönen Kupfern.
     year: 
-    authors: 
+    authors: Wood, Robert
     digital: 
+    -
+        url: https://hdl.handle.net/2027/gri.ark:/13960/t7hq8bj6v
+        org: Getty Research Institute
+    -
+        url: https://gallica.bnf.fr/ark:/12148/bpt6k850428s
+        org: Bibliothèque nationale de France
+        links:
+        -
+            url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k850428s/manifest.json
+            title: The ruins of Balbec, otherwise Heliopolis in Coelosyria
     comment: 
 -
     number: 20 – 24
@@ -270,7 +305,7 @@
     title: Voyage pittoresque ou description des Royaumes de Naples & de Sicile, à Paris 1[7]81-86.
     description: Prachtausg., mit schönen Kupf., 2 Bände.
     year: 
-    authors: 
+    authors: Saint-Non
     digital: 
     -
         url: https://www.e-rara.ch/zut/content/titleinfo/4859300
@@ -306,26 +341,57 @@
     title: 'Voyage pittoresque de l''Istrie & de la Dalmatie, contenant la description historique des monuments, sites, productions, costumes, moeurs, & usage des habitans, & enrichi d’estampes, pris fur les lieux par Cassas.'
     description: 
     year: 
-    authors: 
+    authors: Cassas
     digital: 
+    -
+        url: https://digi.ub.uni-heidelberg.de/diglit/lavallee1802/0006
+        org: Universitätsbibliothek Heidelberg
+        links:
+        -
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/lavallee1802/manifest.json
+            title: Voyage pittoresque et historique de l'Istrie et de la Dalmatie (1802)
     comment: 
 -
     number: 26
     type: folio
     title: Voyage pittoresque de la Grèce par Choiseul-Goussier, à Paris 1782, Tom. I.
     description: Prachtausgabe, mit Kupfern.
-    year: 
-    authors: 
+    year: 1782
+    authors: Choiseul-Goussier
     digital: 
+    -
+        url: https://gallica.bnf.fr/ark:/12148/btv1b8449081d
+        org: Bibliothèque nationale de France
+        links:
+        -
+            url: https://gallica.bnf.fr/iiif/ark:/12148/btv1b8449081d/manifest.json
+            title: "Voyage pittoresque de la Grèce. T. 1 / [par le Comte de Choiseul-Gouffier]"
+    -
+        url: https://bibliotheque-numerique.inha.fr/idurl/1/5801
+        org: Institut National d'Histoire de l'Art
+        links:
+        -
+            url: https://bibliotheque-numerique.inha.fr/iiif/5801/manifest
+            title: "Voyage pittoresque de la Grèce : Tome premier"
     comment: 
 -
     number: 27 – 30
     type: folio
     title: Voyage pittoresque des Isles de Sicile, de Malte & de Lipari, par J. Houël, à Paris 1782-97.
     description: Prachtausgabe, mit schönen Kupfern, 4 Bände.
-    year: 
-    authors: 
+    year: 1782-1792
+    authors: Houel
     digital: 
+    -
+        url: https://gallica.bnf.fr/ark:/12148/bpt6k107640b
+        org: Bibliothèque nationale de France
+        links:
+        -
+            url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k107640b/manifest.json
+            title: "Voyage pittoresque des isles de Sicile, de Malte et de Lipari : où l'on traite des antiquités qui s'y trouvent encore, des principaux phénomènes que la nature y offre, du costume des habitans, et de quelques usages. 2 / par Jean Houel,..."
+    -
+        url: arachne.dainst.org/entity/16598
+        org: University of Cologne
     comment: 
 -
     number: 31
@@ -335,6 +401,20 @@
     year: 
     authors: 
     digital: 
+    -
+        url: https://digi.ub.uni-heidelberg.de/diglit/moreau1728
+        org: Universitätsbibliothek Heidelberg
+        links:
+        -
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/moreau1728/manifest.json
+            title: "Fragmens et ornemens d'architecture: dessinés à Rome d'après l'antique ; formant supplément a l'oeuvre d'architecture de Desgodets (1820)"
+    -
+        url: https://archive.org/details/gri_33125009548336
+        org: Getty Research Institute
+        links:
+        -
+            url: https://archive.org/embed/gri_33125009548336
+            title: "Architectural and ornamental details of ancient Rome, measured and drawn by Charles Moreau, architect; (1919)"
     comment: 
 -
     number: 32

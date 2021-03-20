@@ -8,6 +8,8 @@ title: "Gilly's Library"
 
 This website provides a digital index of the library of Berlin architect Friedrich Gilly (1772 – 1800), with the aim to add links to digital editions when available. The index currently only includes folios.
 
+Read more about Gilly's library in [this introduction](introduction/) by Barry Bergdoll.
+
 Image: *Portrait of Friedrich Gilly by Friedrich Georg Weitsch (1758-1828)*. Collection: <a href="https://smb.museum-digital.de/index.php?t=objekt&oges=143969">Nationalgalerie, Berlin</a>.
 
 <div style="clear:both"></div>
