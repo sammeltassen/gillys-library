@@ -838,29 +838,90 @@
 -
     number: 56
     type: folio
-    title: Nouvelles inventions pour bien bastir & à petits fraix, par Philibert de l’Orme. Paris 1561.
+    title: Nouvelles inventions pour bien bastir & à petits frai[z], par Philibert de l’Orme. Paris 1561.
     description: Livre très rare.
     year: 
     authors: 
     digital: 
+    -
+        url: https://gallica.bnf.fr/ark:/12148/btv1b8609517b
+        org: Bibliothèque nationale de France
+        links:
+        -
+            url: https://gallica.bnf.fr/iiif/ark:/12148/btv1b8609517b/manifest.json
+            title: "Nouvelles inventions pour bien bastir et à petits fraiz / trouvées n'a guères par Philibert de l'Orme,..."
+    -
+        url: https://doi.org/10.3931/e-rara-7
+        org: ETH-Bibliothek Zürich
+        links:
+        -
+            url: https://www.e-rara.ch/i3f/v20/202/manifest
+            title: "Nouvelles inventions pour bien bastir et a petits fraiz, trouvées n'aguères par Philibert de l'Orme ..."
+    -
+        url: http://architectura.cesr.univ-tours.fr/Traite/Notice/ENSBA_Masson643.asp
+        org: Université François-Rabelais
     comment: Goed Google voorbeeld
 -
     number: 57
     type: folio
-    title: Manière de bien bastir pour toutes fortes de personnes, par P. Le Muet, architecte, à Paris 1647.
+    title: Manière de bien bastir pour toutes sortes de personnes, par P. Le Muet, architecte, à Paris 1647.
     description: Mit Kupfern. Livre très rare.
-    year: 
-    authors: 
+    year: 1647
+    authors: Le Muet, Pierre
     digital: 
+    -
+        url: https://gallica.bnf.fr/ark:/12148/bpt6k10400023
+        org: Bibliothèque nationale de France
+        links:
+        -
+            url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k10400023/manifest.json
+            title: "Manière de bien bastir pour toutes sortes de personnes , par Pierre Le Muet,... reveue, augmentée et enrichie, en cette 2e édition, de plusieurs figures, de beaux bastiments & édifices, de l'invention & conduitte dudit sieur Le Muet, & autres"
     comment: 
 -
     number: 58
     type: folio
-    title: Les oevres d’Architecture d’Antoine le Pautre, architecte, à Paris.
+    title: Les oeuvres d’Architecture d’Antoine le Pautre, architecte, à Paris.
     description: Lauter Kupfer.
     year: 
-    authors: 
+    authors: Le Pautre, Antoine
     digital: 
+    -
+        url: https://digi.ub.uni-heidelberg.de/diglit/lepautre1751ga
+        org: Universitätsbibliothek Heidelberg
+        links:
+        -
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/lepautre1751bd1/manifest.json
+            title: "Oeuvres D'Architecture De Jean Le Pautre, Architecte, Dessinateur & Graveur du Roi (Band 1)"
+        -
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/lepautre1751bd2/manifest.json
+            title: "Oeuvres D'Architecture De Jean Le Pautre, Architecte, Dessinateur & Graveur du Roi (Band 2)"
+        -
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/lepautre1751bd3/manifest.json
+            title: "Oeuvres D'Architecture De Jean Le Pautre, Architecte, Dessinateur & Graveur du Roi (Band 3)"
+    -
+        url: https://bibliotheque-numerique.inha.fr/idurl/1/49419
+        org: Institut National d'Histoire de l'Art
+        links:
+        -
+            url: https://bibliotheque-numerique.inha.fr/iiif/49419/manifest
+            title: "Oeuvres d'architecture de Jean Le Pautre, Architecte, Dessinateur & Graveur du Roi. Tome premier."
+    -
+        url: https://bibliotheque-numerique.inha.fr/idurl/1/49430
+        org: Institut National d'Histoire de l'Art
+        links:
+        -
+            url: https://bibliotheque-numerique.inha.fr/iiif/49430/manifest
+            title: "Oeuvres d'architecture de Jean Le Pautre, Architecte, Dessinateur & Graveur du Roi. Tome second."
+    -
+        url: https://bibliotheque-numerique.inha.fr/idurl/1/49434
+        org: Institut National d'Histoire de l'Art
+        links:
+        -
+            url: https://bibliotheque-numerique.inha.fr/iiif/49434/manifest
+            title: "Oeuvres d'architecture de Jean Le Pautre, Architecte, Dessinateur & Graveur du Roi. Tome troisième."
+    -
+        url: http://architectura.cesr.univ-tours.fr/Traite/Notice/ENSBA_LES1644.asp
+        org: Université François-Rabelais
     comment: 
 -
     number: 59 – 62
@@ -907,18 +968,48 @@
     type: folio
     title: L’Anfiteatro flavio, descritto e delineato dal Cavaliere C. Fontana, nell Haia 1725.
     description: Mit Kupfern.
-    year: 
-    authors: 
+    year: 1725
+    authors: Fontana, Carlo
     digital: 
+    -
+        url: https://archive.org/details/gri_33125012907867
+        org: Getty Research Institute
+        links:
+        -
+            url: https://archive.org/embed/gri_33125012907867
+            title: L'anfiteatro Flavio, descritto e delineato dal cavaliere Carlo Fontana
     comment: 
 -
     number: 64 – 65
     type: folio
     title: J. Winckelmann alte Denkmäler der Kunst aus dem Italienischen, von Fr. L. Brunn. Berlin 1791.
     description: 2 Bände, mit vielen Kupfern.
-    year: 
-    authors: 
+    year: 1791
+    authors: Winckelmann, Johann Joachim
     digital: 
+    -
+        url: https://digitalesammlungen.uni-weimar.de/viewer/resolver?urn=urn:nbn:de:gbv:wim2-g-1036642
+        org: Bauhaus-Universität Weimar
+        links:
+        -
+            url: https://digitalesammlungen.uni-weimar.de/viewer/rest/iiif/manifests/PPN672192012/manifest
+            title: "Band 1"
+        -
+            url: https://digitalesammlungen.uni-weimar.de/viewer/rest/iiif/manifests/PPN672192691/manifest
+            title: "Band 2"
+    -
+        url: https://arachne.dainst.org/entity/15315
+        org: University of Cologne
+    -
+        url: https://arachne.dainst.org/entity/15316
+        org: University of Cologne
+    -
+        url: https://archive.org/details/altedenkmalerde00winc
+        org: Getty Research Institute
+        links: 
+        -
+            url: https://archive.org/embed/altedenkmalerde00winc
+            title: "Alte Denkmäler der Kunst"
     fraktur: yes
     comment: 
 -
@@ -929,6 +1020,20 @@
     year: 
     authors: 
     digital: 
+    -
+        url: https://gallica.bnf.fr/ark:/12148/bpt6k856939
+        org: Bibliothèque nationale de France
+        links:
+        -
+            url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k856939/manifest.json
+            title: "Oeuvres d'architecture de Marie-Joseph Peyre (Nouvelle édition) / . Nouvelle édition, augmentée d'un Discours sur les monumens des anciens comparés aux nôtres et sur leur manière d'employer les colonnes"
+    -
+        url: https://archive.org/details/gri_33125010864763
+        org: Getty Research Institute
+        links:
+        -
+            url: https://archive.org/embed/gri_33125010864763
+            title: "Œuvres d'architecture de Marie-Joseph Peyre, architecte, ancien pensionnaire du roi à Rome, inspecteur des bâtimens de sa majesté"
     comment: 
 -
     number: 68
@@ -938,6 +1043,20 @@
     year: 
     authors: 
     digital: 
+    -
+        url: http://arks.princeton.edu/ark:/88435/jh343s34r
+        org: Princeton University Library
+        links:
+        -
+            url: https://figgy.princeton.edu/concern/scanned_resources/b73d935c-6b6d-44ec-a55b-5883cc51b465/manifest
+            title: "Palazzi di Roma de piv celebri architetti, disegnati da Pietro Ferrerio"
+    -
+        url: https://archive.org/details/gri_33125012602732
+        org: Getty Research Institute
+        links:
+        -
+            url: https://archive.org/embed/gri_33125012602732
+            title: "Palazzi di Roma de piv celebri architetti"
     comment: 
 -
     number: 69
@@ -947,15 +1066,43 @@
     year: 
     authors: 
     digital: 
+    -
+        url: https://gallica.bnf.fr/ark:/12148/bpt6k314330w
+        org: Bibliothèque nationale de France
+        links:
+        -
+            url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k314330w/manifest.json
+            title: "Description des travaux qui ont précédé, accompagné et suivi la fonte en bronze d'un seul jet de la statue équestre de Louis XV, le Bien-Aimé / dressée sur les mémoires de M. Lempereur,... par M. Mariette,..."
+    -
+        url: https://archive.org/details/gri_33125010908289
+        org: Getty Research Institute
+        links:
+        -
+            url: https://archive.org/embed/gri_33125010908289
+            title: "Description des travaux qui ont précédé, accompagné et suivi la fonte en bronze d'un seul jet de la statue équestre de Louis XV le Bien-Aimé. Dressée sur les mémoires de M. Lempereur, ancien echevin"
     comment: 
 -
     number: 70
     type: folio
     title: Antiquités de la France pas Clerisseau, architecte, première partie. Paris 1778.
     description: Mit Kupfern.
-    year: 
+    year: 1778
     authors: 
     digital: 
+    -
+        url: https://bibliotheque-numerique.inha.fr/idurl/1/5854
+        org: Institut National d'Histoire de l'Art
+        links:
+        -
+            url: https://bibliotheque-numerique.inha.fr/iiif/5854/manifest
+            title: "Antiquités de la France : Première partie : Monumens de Nîmes"
+    -
+        url: https://archive.org/details/gri_33125010884381
+        org: Getty Research Institute
+        links:
+        -
+            url: https://archive.org/embed/gri_33125010884381
+            title: "Antiquités de la France"
     comment: 
 -
     number: 71
