@@ -16,6 +16,13 @@ layout: default
 			<button class="sort" data-sort="number">number</button><br>
 			<label>Fraktur:</label>
 			<button id="fraktur">toggle</button>
+			{% assign count = 0 %}
+			{% for folio in site.data.folios %}
+				{% if folio.digital %}
+				{% assign count = count | plus: 1 %}
+				{% endif %}
+			{% endfor %}
+			<p><em>{{ count }} of in total {{ site.data.folios.size }} folio's currently contain digital editions</em></p>
 			<ul class="list">
 			{% for folio in site.data.folios %}
 			<li><hr>
