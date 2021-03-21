@@ -508,53 +508,95 @@
     type: folio
     title: Vitruvio Pollione, de architectura libri dece, tradotti de latino da G. de Ponte 1521, Como.
     description: Mit Holzschnitten.
-    year: 
-    authors: 
+    year: 1521
+    authors: Vitruvius
     digital: 
+    -
+        url: https://archive.org/details/gri_33125008262210
+        org: Getty Research Institute
+        links:
+        -
+            url: https://archive.org/embed/gri_33125008262210
+            title: "Di Lucio Vitruuio Pollione De architectura libri dece : traducti de latino in vulgare, affigurati, cõmentati, & con mirando ordine insigniti: per il quale facilmente potrai trouare la multitudine de li abstrusi & reconditi vocabuli a li soi loci & in epsa tabula con summo studio expositi & enucleati ad immensa utilitate de ciascuno studioso & beniuolo di epsa opera"
     comment: 
 -
     number: 37
     type: folio
     title: "[I] dieci libri della architettura di M. Vitruvio, tradutti e commentati da Monsignor Barbaro. Vinegia 1556."
     description: Mit Holzschnitten.
-    year: 
-    authors: 
+    year: 1556
+    authors: Vitruvius
     digital: 
+    -
+        url: https://doi.org/10.3931/e-rara-7582
+        org: ETH-Bibliothek Zürich
+        links:
+        -
+            url: https://www.e-rara.ch/i3f/v20/1980172/manifest
+            title: "I dieci libri dell'architettura di M. Vitruvio tradutti et commentati da Monsignor Barbaro eletto patriarca d'Aquileggia"
     comment: 
 -
     number: 38
     type: folio
     title: M. Vitruvii Pollionis de architectura libri X. Amsterdam 1649.
     description: Mit Holzschnitten.
-    year: 
-    authors: 
+    year: 1649
+    authors: Vitruvius
     digital: 
+    -
+        url: https://digi.ub.uni-heidelberg.de/diglit/vitruvius1649
+        org: Universitätsbibliothek Heidelberg
+        links:
+        -
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/vitruvius1649/manifest.json
+            title: M. Vitrvvii Pollionis De architectvra libri decem
     comment: 
 -
     number: 39
     type: folio
     title: Les dix libres d’architecture de Vitruve, édition de M. Perrault, à Paris 1684, avec Estampes.
     description: 
-    year: 
-    authors: 
+    year: 1684
+    authors: Vitruvius
     digital: 
+    -
+        url: https://doi.org/10.3931/e-rara-54059
+        org: ETH-Bibliothek Zürich
+        links:
+        -
+            url: https://www.e-rara.ch/i3f/v20/14701133/manifest
+            title: "Les Dix Livres d'Architecture de Vitruve / corr., trad. nouvellement en François, avec des Notes, des Figures... par M. Perrault ..."
     comment: 
 -
     number: 40
     type: folio
     title: L’architettura di M. Vitruvio Pollione, colla tradutione Italiana e commentata del Marq. B. Galliani. Napoli 1758.
     description: Prachtausgabe, mit Kupfern.
-    year: 
-    authors: 
+    year: 1758
+    authors: Vitruvius
     digital: 
+    -
+        url: https://doi.org/10.3931/e-rara-52711
+        org: ETH-Bibliothek Zürich
+        links:
+        -
+            url: https://www.e-rara.ch/i3f/v20/14461008/manifest
+            title: "L' architettura di M. Vitruvio Pollione : dedicata alla Maestà di Carlo Re delle due Sicilie... / colla traduzione italiana e comento del Marchese Berardo Galiani"
+    -
+        url: https://archive.org/details/gri_33125008527570
+        org: Getty Research Institute
+        links:
+        -
+            url: https://archive.org/embed/gri_33125008527570
+            title: "L'architettura di M. Vitruvio Pollione : colla traduzione italiana e comento"
     comment: 
 -
     number: 41
     type: folio
     title: Commentaire sur Vitruve, éclaircis par des figures, par W. Newton, architecte. Londres 1780.
     description: 
-    year: 
-    authors: 
+    year: 1780
+    authors: Newton, W.
     digital: 
     comment: 
 -
@@ -562,9 +604,19 @@
     type: folio
     title: Les plus beaux monuments de Rome ancienne qui existent encore, dessinés par Barbault. Rome 1761.
     description: Mit Kupfern.
-    year: 
-    authors: 
+    year: 1761
+    authors: Barbault
     digital: 
+    -
+        url: https://digi.ub.uni-heidelberg.de/diglit/barbault1761
+        org: Universitätsbibliothek Heidelberg
+        links:
+        -
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/barbault1761/manifest.json
+            title: "Les plus beaux monuments de Rome ancienne: Ou Recueil Des Plus Beaux Morceaux De L'Antiquité Romaine Qui Existent Encore"
+    -
+        url: arachne.dainst.org/entity/1343065
+        org: University of Cologne
     comment: 
 -
     number: 43
@@ -572,8 +624,18 @@
     title: Della antichità di Ercolano, rappresentando i bronzi ivi retrovati.
     description: Mit schönen Kupfern.
     year: 
-    authors: 
+    authors: Academia Ercolanesi
     digital: 
+    -
+        url: https://digi.ub.uni-heidelberg.de/diglit/ercolano1757ga
+        org: Universitätsbibliothek Heidelberg
+        links:
+        -
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/ercolano1767bd5/manifest.json
+            title: "Le antichità di Ercolano esposte (Band 5): Busti"
+        -
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/ercolano1771bd6/manifest.json
+            title: "Le antichità di Ercolano esposte (Band 6): Statue"
     comment: 
 -
     number: 44
@@ -583,24 +645,81 @@
     year: 
     authors: 
     digital: 
+    -
+        url: https://gallica.bnf.fr/ark:/12148/bpt6k8860490
+        org: Bibliothèque nationale de France
+        links:
+        -
+            url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8860490/manifest.json
+            title: "Les Restes de l'ancienne Rome, recherchez avec soin, mesurez, dessinez sur les lieux et gravez par feu Bonaventure d'Overbeke, sous les pontificats d'Innocent XI, d'Alexandre VIII et d'Innocent XII, imprimé aux dépens de Michel d'Overbeke. Tome I [-III]"
+    -
+        url: https://digi.ub.uni-heidelberg.de/diglit/overbeke1709ga
+        org: Universitätsbibliothek Heidelberg
+        links:
+        -
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/overbeke1709bd1/manifest.json
+            title: Les Restes De L'Ancienne Rome (Band 1)
+        -
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/overbeke1709bd2/manifest.json
+            title: Les Restes De L'Ancienne Rome (Band 2)
+        -
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/overbeke1709bd3/manifest.json
+            title: Les Restes De L'Ancienne Rome (Band 3)
     comment: 
 -
     number: 45
     type: folio
     title: Original designs in Architecture, consisting of Plans, Elevations and Sections for villas, mansions, townhouses &c. by J. Lewis. London 1780.
     description: Prachtausgabe.
-    year: 
-    authors: 
+    year: 1780
+    authors: Lewis, J.
     digital: 
+    -
+        url: https://archive.org/details/gri_33125011113459
+        org: Getty Research Institute
+        links:
+        -
+            url: https://archive.org/embed/gri_33125011113459
+            title: "Original designs in architecture : consisting of plans, elevations, and sections, for villas, mansions, town-houses, &c., and a new design for a theatre : with descriptions, and explanations of the plates, and an introduction to the work"
+    -
+        url: https://archive.org/details/gri_33125009747607
+        org: Getty Research Institute
+        links:
+        -
+            url: https://archive.org/embed/gri_33125009747607
+            title: "Original designs in architecture : consisting of plans, elevations, and sections, for villas, mansions, town-houses, &c., and a new design for a theatre : with descriptions, and explanations of the plates, and an introduction to the work"
     comment: 
 -
     number: 46 – 47
     type: folio
     title: Les Bâtimens & les desseins d’André Palladio, recueillis & illustrés par O.B. Scamozzi.
     description: I Theil Beschreibung, I Theil Kupfer.
-    year: 
-    authors: 
+    year: 1786
+    authors: Bertotti-Scamozzi, Ottavio
     digital: 
+    - 
+        url: https://digi.ub.uni-heidelberg.de/diglit/scamozzi1796ga
+        org: Universitätsbibliothek Heidelberg
+        links:
+        -
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/scamozzi1796/manifest.json
+            title: "Les bâtiments et les desseins de André Palladio: avec des planches, qui répresentent les plans, les facades, et les coupes (Band 1)"
+        -
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/scamozzi1796bd2/manifest.json
+            title: "Les bâtiments et les desseins de André Palladio: avec des planches, qui répresentent les plans, les facades, et les coupes (Band 2)"
+        -
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/scamozzi1796bd3/manifest.json
+            title: "Les bâtiments et les desseins de André Palladio: avec des planches, qui répresentent les plans, les facades, et les coupes (Band 3)"
+        -
+            url: https://digi.ub.uni-heidelberg.de/diglit/iiif/scamozzi1796bd4/manifest.json
+            title: "Les bâtiments et les desseins de André Palladio: avec des planches, qui répresentent les plans, les facades, et les coupes (Band 4)"
+    -
+        url: https://doi.org/10.3931/e-rara-55274
+        org: ETH-Bibliothek Zürich
+        links:
+        -
+            url: https://www.e-rara.ch/i3f/v20/14945447/manifest
+            title: "Le fabbriche e i disegni di Andrea Palladio : Les batimens et les desseins de André Palladio / raccolti ed illustrati da Ottavio Bertotti Scamozzi = recueillis et illustrés par Octave Bertotti Scamozzi"
     comment: 
 -
     number: 48 – 49
@@ -610,6 +729,13 @@
     year: 
     authors: 
     digital: 
+    -
+        url: https://doi.org/10.3931/e-rara-13021
+        org: ETH-Bibliothek Zürich
+        links:
+        -
+            url: https://www.e-rara.ch/i3f/v20/3982323/manifest
+            title: "The four books of architecture / by Andrea Palladio ; literally translated from the original Italian by Isaac Ware"
     comment: 
 -
     number: 50
@@ -628,6 +754,13 @@
     year: 
     authors: 
     digital: 
+    -
+        url: https://polona.pl/item/anfang-einiger-vorstellungen-der-vornehmsten-gebaude-so-wohl-innerhalb-der-stadt-als-in,ODg4MDE4NQ/ 
+        org: The National Library of Poland
+        links:
+        -
+            url: https://polona.pl/iiif/item/ODg4MDE4NQ/manifest.json
+            title: "Anfang einiger Vorstellungen der Vornehmsten Gebäude so wohl innerhalb der Stadt als in den Vostädten von Wien, wovon mit der Zeit das abgehende nachfolgen soll = Commencement de veues et de façades principales dans la ville et aux fauxbourgs de Vienne [...]."
     comment: 
     fraktur: yes
 -
@@ -638,6 +771,15 @@
     year: 
     authors: 
     digital: 
+    -
+        url: https://books.google.nl/books?id=CXUE0Oh_SK0C
+        org: Bibliothèque jésuite des Fontaines
+    -
+        url: https://catalog.hathitrust.org/Record/100578068
+        org: Getty Research Institute
+    -
+        url: http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10862767-1
+        org: Bayerische Staatsbibliothek
     comment: 
 -
     number: 53
@@ -647,24 +789,51 @@
     year: 
     authors: 
     digital: 
+    -
+        url: http://architectura.cesr.univ-tours.fr/Traite/Notice/CESR_4045.asp
+        org: Université François-Rabelais
     comment: 
 -
     number: 54
     type: folio
     title: Opere varie di architettura prospettive, groteschi, antichità, ful gusto degli antichi Romani, inventate & incise da G.B. Piranesi. Roma 1750.
     description: Mit Kupfern.
-    year: 
-    authors: 
+    year: 1750
+    authors: Piranesi
     digital: 
+    -
+        url: https://catalog.hathitrust.org/Record/101696591
+        org: Getty Research Institute
+    -
+        url: https://archive.org/details/gri_33125008448025
+        org: Getty Research Institute
+        links:
+        -
+            url: https://archive.org/embed/gri_33125008448025
+            title: "Opere varie di architettura prospettive grotteschi antichità sul gusto degli antichi romani"
     comment: 
 -
     number: 55
     type: folio
     title: Architecture de Philibert de Lorme, à Paris 1567, avec figures.
     description: Livre très rare.
-    year: 
-    authors: 
+    year: 1567
+    authors: Delorme
     digital: 
+    -
+        url: https://gallica.bnf.fr/ark:/12148/bpt6k85636g
+        org: Bibliothèque nationale de France
+        links:
+        -
+            url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k85636g/manifest.json
+            title: "Le premier tome de l'architecture de Philibert de L'Orme conseillier et aumosnier ordinaire du Roy, & abbé de S. Serge lez Angiers (1567)"
+    -
+        url: https://gallica.bnf.fr/ark:/12148/bpt6k854656s
+        org: Bibliothèque nationale de France
+        links:
+        -
+            url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k854656s/manifest.json
+            title: "Le premier tome de l'Architecture, de Philibert de L'Orme,... (1568)"
     comment: 
 -
     number: 56
