@@ -19,7 +19,7 @@ Digital edition of original library index:
 Sammlung von Büchern und Kupferstichen, meist architektonischen, antiquarischen und artistischen Inhaltes.</em> Berlin 1801. From: Goethes Privatbibliothek in der Klassik Stiftung Weimar</a>
 
 Secondary literature:
-- [Michael Bollé, María Ocón Fernández (2019) *Die Büchersammlung Friedrich Gillys (1772―1800): Provenienz und Schicksal einer Architektenbibliothek im theoretischen Kontext des 18. Jahrhunderts*, Berlin: Gebr. Mann.](https://doi.org/10.5771/9783786175018)
+- [Michael Bollé, María Ocón Fernández (2019) *Die Büchersammlung Friedrich Gillys (1772―1800): Provenienz und Schicksal einer Architektenbibliothek im theoretischen Kontext des 18. Jahrhunderts*, Berlin: Gebr. Mann. The extensive bibliographic information in this book is used to match the occasionally ambiguous original descriptions to appropriate digital editions.](https://doi.org/10.5771/9783786175018)
 - [Friedrich Gilly (1994) *Essays on Architecture, 1796-1799,* Santa Monica, CA: Getty Center for the History of Art and the Humanities. With an introduction by Fritz Neumeyer and a reproduction of the Library index.](http://www.getty.edu/publications/virtuallibrary/0892362812.html)
 
 | Made by<br>[Jules Schoonman](https://sammeltassen.nl) | Source code<br>[GitHub](https://github.com/sammeltassen/gillys-library) | See also<br>[Spiker's Berlin](https://spikers.berlin) |
