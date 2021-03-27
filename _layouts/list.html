@@ -16,13 +16,8 @@ layout: default
 			<button class="sort" data-sort="number">number</button><br>
 			<label>Fraktur:</label>
 			<button id="fraktur">toggle</button>
-			{% assign count = 0 %}
-			{% for folio in site.data.folios %}
-				{% if folio.digital %}
-				{% assign count = count | plus: 1 %}
-				{% endif %}
-			{% endfor %}
-			<p><em>{{ count }} of in total {{ site.data.folios.size }} folio's currently contain digital editions</em></p>
+			{% assign count = site.data.digital | map: "item" | uniq %}
+			<p><em>{{ count.size }} of in total {{ site.data.folios.size }} folio's currently contain digital editions</em></p>
 			<ul class="list">
 			{% for folio in site.data.folios %}
 			<li><hr>
@@ -38,24 +33,8 @@ layout: default
 				</div>
 			</div>
 			<div class="panel">
-				{% if folio.digital %}
-					{% for edition in folio.digital %}
-						<div class="edition">
-						{% if edition.thumb %}
-						<div class="right thumb"><img width="100px" src="{{ edition.thumb }}"></div>
-						{% endif %}
-						<div class="panel-right"><a target="_blank" href="{{ edition.url }}">{{ edition.org }}</a><br>
-						{% if edition.links %}
-							{% for link in edition.links %}
-							<a class="manifest" href="{% if link.url contains "manifest" %}assets/uv/uv.html#?manifest={% endif %}{{ link.url }}">{{ link.title }}</a><br>
-							{% endfor %}
-						{% endif %}
-						</div>
-						</div>
-					{% endfor %}
-					{% else %}
-					<span>No digital editions added (yet).</span><br>
-				{% endif %}
+				{% capture folio_guid %}{{ folio.guid }}{% endcapture %}
+				{% include digital.html uuid=folio_guid %}
 				<div class="edition"><a target="_blank" href="http://www.google.com/search?q={{ folio.title | replace: "[", "" | replace: "]", "" | url_encode }}">Search title on Google</a></div>
 			</div>
 			</li>

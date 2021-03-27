@@ -1,0 +1,19 @@
+{% assign editions = site.data.digital | where: "item", include.uuid %}
+{% if editions.size >= 1 %}
+    {% for edition in editions %}
+        <div class="edition">
+        {% if edition.thumb %}
+        <div class="right thumb"><img width="100px" src="{{ edition.thumb }}"></div>
+        {% endif %}
+        <div class="panel-right"><a target="_blank" href="{{ edition.url }}">{{ edition.org }}</a><br>
+        {% if edition.links %}
+            {% for link in edition.links %}
+            <a class="manifest" href="{% if link.url contains "manifest" %}assets/uv/uv.html#?manifest={% endif %}{{ link.url }}">{{ link.title }}</a><br>
+            {% endfor %}
+        {% endif %}
+        </div>
+        </div>
+    {% endfor %}
+{% else %}
+    <span>No digital editions added (yet).</span><br>
+{% endif %}
