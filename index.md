@@ -14,9 +14,12 @@ Image: *Portrait of Friedrich Gilly by Friedrich Georg Weitsch (1758-1828)*. Col
 
 <div style="clear:both"></div>
 
-Digital edition of original library index: 
+Library catalogues:
 - <a class="manifest" href="assets/uv/uv.html#?manifest=https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/3519073331/manifest/"><em>Verzeichnis der von dem verstorbenen Professor und Hof-Bau-Inspektor Gilly hinterlassenen auserlesenen
-Sammlung von Büchern und Kupferstichen, meist architektonischen, antiquarischen und artistischen Inhaltes.</em> Berlin 1801. From: Goethes Privatbibliothek in der Klassik Stiftung Weimar</a>
+Sammlung von Büchern und Kupferstichen, meist architektonischen, antiquarischen und artistischen Inhaltes.</em> Berlin 1801. From: Goethes Privatbibliothek in der Klassik Stiftung Weimar.</a>
+- <a class="manifest" href="assets/uv/uv.html#?manifest=https://www.e-rara.ch/i3f/v20/22802993/manifest"><em>Verzeichniss der in der Bibliothek der königl. Ober-Baudeputation vorhandenen Werke</em> (1848)</a>
+- <a class="manifest" href="assets/uv/uv.html#?manifest=https://digital.zlb.de/viewer/api/v1/records/34431674/manifest/"><em>Katalog der Bibliothek der Königlichen Akademie der Künste zu Berlin</em> (1893)</a>
+- [View the *Sammlung Friedrich Gilly* of the Universität der Künste Berlin in which 180 original works have survived.](https://udk-berlin.hosted.exlibrisgroup.com/primo-explore/search?query=lsr32%2Cexact%2CSammlung%20Friedrich%20Gilly%2CAND&search_scope=default_scope&vid=UDK&mode=advanced)
 
 Secondary literature:
 - [Michael Bollé, María Ocón Fernández (2019) *Die Büchersammlung Friedrich Gillys (1772―1800): Provenienz und Schicksal einer Architektenbibliothek im theoretischen Kontext des 18. Jahrhunderts*, Berlin: Gebr. Mann. The extensive bibliographic information in this book is used to match the occasionally ambiguous original descriptions to appropriate digital editions.](https://doi.org/10.5771/9783786175018)
