@@ -1,0 +1,14 @@
+---
+layout: none
+---
+---{% assign institutions = site.data.digital | map: 'org' | uniq %}{% for institution in institutions %}
+-
+	library: {{ institution }}{% assign editions = site.data.digital | where: "org", institution %}{% for edition in editions %}
+    -
+    	uuid: {{ edition.item }}
+    	pid: {{ edition.url }}{% if edition.thumb %}
+    	thumb: {{ edition.thumb }}{% endif %}{% if edition.links %}
+    	items:{% for link in edition.links %}
+    	-
+    		title: {{ link.title }}
+    		manifest: {{ link.url }}{% endfor %}{% endif %}{% endfor %}{% endfor %}

@@ -1,0 +1,5 @@
+---
+layout: none
+---
+---{% assign institutions = site.data.digital | map: 'org' | uniq %}{% for institution in institutions %}
+- {{ institution }}{% endfor %}
