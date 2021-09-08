@@ -1,0 +1,119 @@
+---
+- Getty Research Institute
+- Heidelberg University Library
+- University of Cologne
+- Bibliothèque nationale de France
+- Institut national d'histoire de l'art
+- Smithsonian Libraries
+- University of Wisconsin
+- Royal Academy
+- ETH-Bibliothek Zürich
+- Universitätsbibliothek Heidelberg
+- Institut National d'Histoire de l'Art
+- The National Library of Poland
+- Bibliothèque jésuite des Fontaines
+- Bayerische Staatsbibliothek
+- Université François-Rabelais
+- Bauhaus-Universität Weimar
+- Princeton University Library
+- The Metropolitan Museum of Art
+- SLUB Dresden
+- Centre d'Études Supérieures de la Renaissance
+- Bavarian State Library
+- SUB Göttingen
+
+-
+    repository: https://archive.org
+    docs: https://archive.readme.io/docs/ia-iiif-faqs
+    iiifscheme: https://iiif.archivelab.org/iiif/<id>/manifest.json
+    libraries:
+    -
+        library: Getty Research Institute
+        items:
+        -
+            uuid: 2f345132-7bf7-46f1-b8ad-84dca7874a1a
+            items:
+            -
+                pid: https://archive.org/details/gri_33125008667756
+                id: gri_33125008667756
+                volume: 2
+                year: 1762
+-
+    repository: https://gallica.bnf.fr
+    docs: https://gist.github.com/regisrob/9f3a947ab0a60a17e200f81dd8af8055
+    iiifscheme: https://gallica.bnf.fr/iiif/ark:/12148/<id>/manifest.json
+    libraries:
+    -
+        library: Bibliothèque nationale de France
+        items:
+        -
+            uuid: cab161a1-27f2-409b-8595-64c05fa526aa
+            items:
+            -
+                pid: https://gallica.bnf.fr/ark:/12148/btv1b10515392t
+                year: 1787-1796
+-
+    repository: https://www.e-rara.ch
+    iiifscheme: https://www.e-rara.ch/i3f/v20/<id>/manifest
+	libraries:
+	-
+	    library: ETH-Bibliothek Zürich
+	    items:
+	    -
+	        uuid: 4a57ed0f-f4d7-4a2b-aeb6-c5fc3316bcc6
+	        items: 
+            -
+    		    year: 1781-1786
+    		    id: 4859300
+    		    pid: https://doi.org/10.3931/e-rara-15565
+-
+    repository: https://bibliotheque-numerique.inha.fr
+    iiifscheme: https://bibliotheque-numerique.inha.fr/iiif/<id>/manifest
+    libraries:
+    -  
+        library: Institut National d'Histoire de l'Art
+        items:
+        -
+            uuid: cab161a1-27f2-409b-8595-64c05fa526aa
+            items:
+            -
+                pid: https://bibliotheque-numerique.inha.fr/idurl/1/30722
+                id: 30722
+                year: 1787-1791
+-
+    repository: https://digi.ub.uni-heidelberg.de
+    iiifscheme: https://digi.ub.uni-heidelberg.de/diglit/iiif/<id>/manifest.json
+    libraries:
+    -
+        library: Universitätsbibliothek Heidelberg
+        items:
+        -
+            uuid: 4a57ed0f-f4d7-4a2b-aeb6-c5fc3316bcc6
+            items:
+            -
+                id: saintnon1781
+                pid: https://doi.org/10.11588/diglit.1087
+                volume: 1.1
+                year: 1781
+            -
+                id: saintnon1782
+                pid: https://doi.org/10.11588/diglit.1088
+                volume: 1.2
+                year: 1782
+            -
+                id: saintnon1783
+                pid: https://doi.org/10.11588/diglit.2594
+                volume: 3
+                year: 1783
+            -
+                id: saintnon1785bd4_1
+                pid: https://doi.org/10.11588/diglit.3243
+                volume: 4.1
+                year: 1785
+            -
+                id: saintnon1786bd4_2
+                pid: https://doi.org/10.11588/diglit.3234
+                volume: 4.2
+                year: 1786
+    
+    
