@@ -10,32 +10,44 @@ layout: default
 			<h2>Folio's</h2>
 			<div id="projects">
 			<label>Search:</label>
-			<input class="search" id="text" name="text" type="text" required="" minlength="1" placeholder="query">
-			<label>Sort by:</label>
-			<button class="sort" data-sort="title">title</button>
-			<button class="sort" data-sort="number">number</button><br>
-			<label>Fraktur:</label>
-			<button id="fraktur">toggle</button>
-			{% assign count = site.data.digital | map: "item" | uniq %}
-			<p><em>{{ count.size }} of in total {{ site.data.folios.size }} folio's currently contain digital editions</em></p>
+			<input class="search" id="search" name="text" type="text" required="" minlength="1" placeholder="query">
+			<p>Filter:</p>
+			<ul>
+				<li>By format: <a class="link folio">folios</a>, <a class="link quarto">quartos</a>, <a class="link octavo">octavos</a>, <a class="link kleinformat">small format</a></li>
+				<li><a class="link udk">Holdings of the Berlin University of the Arts</a></li>
+				<li><a class="link digital">Items containing digital editions</a></li>
+			</ul>
+			<label>Sort results by:</label><br>
+			<button class="sort" data-sort="author">Author</button>
+			<button class="sort" data-sort="title">Title</button>
+			<button class="sort" data-sort="pid">Format</button>
+			<p><a class="link reset">Reset list</a></p>
+			{% assign count = site.data.digital | map: "pid" | uniq %}
+			<p><em>{{ count.size }} of in total {{ site.data.index.size }} items currently contain digital editions</em></p>
+			<hr>
 			<ul class="list">
-			{% for folio in site.data.folios %}
-			<li><hr>
+			{% for item in site.data.index %}
+			<li>
 			<div class="accordion">
-				<div class="left">
-					<span class="number"><strong>{{ folio.number }}</strong></span>
-				</div>
-				<div class="description">
-					<span class="title {% if folio.fraktur %}fraktur toggle{% endif %}">{{ folio.title }}<span>
-					{% if folio.description %}
-					<span class="toggle fraktur">{{ folio.description }}</span>
-					{% endif %}
+				<div class="item">
+					<a class="pid hidden">{{ item.pid }}</a>
+					<a class="index hidden">{{ item.index }}</a>
+					<span class="format"><strong>{{ item.format }}</strong></span>
+					<p class="author {% if folio.fraktur %}fraktur toggle{% endif %}">{{ item.author }}</p>
+					<p class="title {% if folio.fraktur %}fraktur toggle{% endif %}">{{ item.title }}</p>
+					<p class="publisher {% if folio.fraktur %}fraktur toggle{% endif %}">{{ item.publisher }}</p>
 				</div>
 			</div>
 			<div class="panel">
-				{% capture folio_guid %}{{ folio.guid }}{% endcapture %}
-				{% include digital.html uuid=folio_guid %}
-				<div class="edition"><a target="_blank" href="http://www.google.com/search?q={{ folio.title | replace: "[", "" | replace: "]", "" | url_encode }}">Search title on Google</a></div>
+				{% if item.description %}
+				<p class="description">{{ item.description }}</p>
+				{% endif %}
+				{% if item.udk %}
+				<p class="udk">View title at the Berlin University of the Arts: <a href="https://udk-berlin.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,{{ item.udk | truncate: 7, "" | url_encode }}&tab=default_tab&search_scope=default_scope&vid=UDK&facet=domain,include,Sammlung%20Friedrich%20Gilly&lang=de_DE&offset=0">{{ item.udk }}</a></p>
+				{% endif %}
+				{% capture pid %}{{ item.pid }}{% endcapture %}
+				{% include digital.html pid=pid %}
+				<p><div class="edition"><a target="_blank" href="http://www.google.com/search?q={{ item.title | replace: "[", "" | replace: "]", "" | url_encode }}">Search title on Google</a></div></p>
 			</div>
 			</li>
 			{% endfor %}
@@ -44,7 +56,7 @@ layout: default
     </article>
     <script type="application/javascript">
 	var options = {
-		valueNames: [ 'title', 'number', 'type' ]
+		valueNames: [ 'title', 'author', 'publisher', 'format', 'udk', 'digital', 'pid', 'index' ]
 	};
 	
 	var projectsList = new List('projects', options);
@@ -72,6 +84,48 @@ layout: default
 	
 	$( "#fraktur" ).click(function() {
 	  $( ".toggle" ).toggleClass( "fraktur" );
+	});
+
+	$( ".folio" ).click(function() {
+		projectsList.search('folio', ['format']);
+		projectsList.sort('pid', { order: "asc" });
+		$("#search").val('');
+	});
+
+	$( ".quarto" ).click(function() {
+		projectsList.search('quarto', ['format']);
+		projectsList.sort('pid', { order: "asc" });
+		$("#search").val('');
+	});
+
+	$( ".octavo" ).click(function() {
+		projectsList.search('octavo', ['format']);
+		projectsList.sort('pid', { order: "asc" });
+		$("#search").val('');
+	});
+
+	$( ".kleinformat" ).click(function() {
+		projectsList.search('klein', ['format']);
+		projectsList.sort('pid', { order: "asc" });
+		$("#search").val('');
+	});
+
+	$( ".udk" ).click(function() {
+		projectsList.search('R', ['udk']);
+		projectsList.sort('udk', { order: "asc" });
+		$("#search").val('');
+	});
+
+	$( ".digital" ).click(function() {
+		projectsList.search('yes', ['digital']);
+		projectsList.sort('index', { order: "asc" });
+		$("#search").val('');
+	});
+
+	$( ".reset" ).click(function() {
+		projectsList.search();
+		projectsList.sort('index', { order: "asc" });
+		$("#search").val('');
 	});
 	</script>
 

@@ -13,12 +13,20 @@ ul.list {
 	font-family: "UnifrakturMaguntia", sans-serif;
 }
 
+.link {
+	cursor: pointer;
+}
+
 .type {
 	display: none;
 	font-family: "UnifrakturMaguntia", sans-serif;
 }
 
 .title {
+}
+
+.hidden {
+	display: none;
 }
 
 .left {
@@ -33,24 +41,35 @@ ul.list {
 	float: right;
 }
 
+.clear {
+	clear:both;
+}
+
 .description {
-	padding-left: 5rem;
+	font-style: italic;
+	margin-top: 0em;
+	/* padding-left: 5rem; */
 }
 
 .panel-right {
 
 }
 
+.accordion {
+	margin-top: 1em;
+}
+
+
 .panel {
-	padding-left: 5rem;
+	/* padding-left: 5rem; */
+	border-bottom: 1px solid var(--border);
 	max-height: 0;
 	overflow: hidden;
 	transition: max-height 0.2s ease-out;
 }
 
 .edition {
-	clear:both;
-	padding-top: 1rem;
+	list-style: disc;
 }
 
 .accordion {
@@ -60,6 +79,7 @@ ul.list {
 .portrait {
 	float: right;
 	vertical-align: top;
+	margin-left: 1em;
 }
 
 .portrait>img {
@@ -76,5 +96,6 @@ ul.list {
   .portrait {
 	float: none;
 	text-align: center;
+	margin-left: 0;
   }
 }
