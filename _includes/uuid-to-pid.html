@@ -1,0 +1,1 @@
+{% assign folios = site.data.folios | where: "guid", include.uuid %}{% for folio in folios %}{{ folio.type }}-{{ folio.number | replace: " ", "" | replace: "–", "-" | }}{% endfor %}

@@ -1,6 +1,6 @@
 ---
 -
-    pid: folio-1-3
+    item: 2f345132-7bf7-46f1-b8ad-84dca7874a1a
     url: https://archive.org/search.php?query=The+antiqvities+of+Athens&&and[]=collection%3A%22getty%22
     org: Getty Research Institute
     links:
@@ -17,7 +17,7 @@
         url: https://archive.org/embed/gri_33125008667582
         title: Volume 4 (1762)
 -
-    pid: folio-1-3
+    item: 2f345132-7bf7-46f1-b8ad-84dca7874a1a
     url: https://digi.ub.uni-heidelberg.de/diglit/stuart1825ga
     org: Heidelberg University Library
     thumb: https://digi.ub.uni-heidelberg.de/iiif/2/stuart1825bd1%3A00_Titelblatt.jpg/full/500,/0/default.jpg
@@ -35,15 +35,15 @@
         url: https://digi.ub.uni-heidelberg.de/diglit/iiif/stuart1830bd4/manifest.json
         title: Volume 4 (1830) 
 -
-    pid: folio-4
+    item: 8143feb3-94db-4117-a4e9-6a82250d27fa
     url: https://arachne.dainst.org/entity/1282161
     org: University of Cologne
 -
-    pid: folio-5-6
+    item: e82a7c89-1bb1-4e23-96d1-099929a74bcb
     url: https://archive.org/details/gri_33125011158744
     org: Getty Research Institute
 -
-    pid: folio-7
+    item: 0c0bf997-8701-410f-97ca-c1bf6466d7fc
     url: https://gallica.bnf.fr/ark:/12148/bpt6k5688688j
     org: Bibliothèque nationale de France
     thumb: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5688688j/f8/full/500,/0/native.jpg
@@ -52,7 +52,7 @@
         url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5688688j/manifest.json
         title: Description des écoles de chirurgie ... par M. Gondoin,...
 -
-    pid: folio-8
+    item: 3c25908b-30f3-4919-a6f2-5ca943dbead5
     url: https://gallica.bnf.fr/ark:/12148/btv1b9058220m
     org: Bibliothèque nationale de France
     thumb: https://gallica.bnf.fr/iiif/ark:/12148/btv1b9058220m/f12/full/500,/0/native.jpg
@@ -61,7 +61,7 @@
         url: https://gallica.bnf.fr/iiif/ark:/12148/btv1b9058220m/manifest.json
         title: "« Les Edifices antiques de Rome dessinés et mesurés tres exactement par ANTOINE DESGODETZ, architecte », précédés d'une dédicace à Colbert, marquis de Seignelay."
 -
-    pid: folio-8
+    item: 3c25908b-30f3-4919-a6f2-5ca943dbead5
     url: https://digi.ub.uni-heidelberg.de/diglit/desgodets1682
     org: Heidelberg University Library
     thumb: https://digi.ub.uni-heidelberg.de/iiif/2/desgodets1682%3A000_a_Titelblatt.jpg/full/500,/0/default.jpg
@@ -70,7 +70,7 @@
         url: https://digi.ub.uni-heidelberg.de/diglit/iiif/desgodets1682/manifest.json
         title: "Les Edifices Antiques De Rome: Dessinés Et Mesurés Très Exactement (1682)"
 -
-    pid: folio-9
+    item: cab161a1-27f2-409b-8595-64c05fa526aa
     url: https://bibliotheque-numerique.inha.fr/idurl/1/30722
     org: Institut national d'histoire de l'art
     thumb: https://bibliotheque-numerique.inha.fr/i/?IIIF=/18/2b/89/7b/182b897b-7731-42a9-a03a-49dd12782368/iiif/0629_doucet_FEST441_000009.tif/full/500,/0/default.jpg
@@ -79,7 +79,7 @@
         url: https://bibliotheque-numerique.inha.fr/iiif/30722/manifest
         title: "Recueil des prix proposés et couronnés par l'Académie d'architecture, enrichi des plans, coupes et vues des plus jolies maisons de Paris"
 -
-    pid: folio-9
+    item: cab161a1-27f2-409b-8595-64c05fa526aa
     url: https://gallica.bnf.fr/ark:/12148/btv1b10515392t
     org: Bibliothèque nationale de France
     links:
@@ -87,23 +87,23 @@
         url: https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515392t/manifest.json
         title: "Collection des prix que la ci-devant Académie d'Architecture proposoit et couronnoit tous les ans, gravée au trait, imprimée sur papier propre être lavé. Tome premier / [gravés par Amant-Parfait Prieur et Pierre-Louis Van Cleemputte]"
 -
-    pid: folio-10
+    item: 58dd5df2-c281-424c-afc1-fcc201cb9661
     url: https://archive.org/details/RuinspalaceEmpe00Adam
     org: Smithsonian Libraries
 -
-    pid: folio-10
+    item: 58dd5df2-c281-424c-afc1-fcc201cb9661
     url: https://digital.library.wisc.edu/1711.dl/HR7XWVQAUI2TR8P
     org: University of Wisconsin
 -
-    pid: folio-10
+    item: 58dd5df2-c281-424c-afc1-fcc201cb9661
     url: https://www.royalacademy.org.uk/art-artists/book/ruins-of-the-palace-of-the-emperor-diocletian-at-spalatro-in-dalmatia-by-r
     org: Royal Academy
 -
-    pid: folio-10
+    item: 58dd5df2-c281-424c-afc1-fcc201cb9661
     url: https://archive.org/details/gri_33125008485399
     org: Getty Research Institute
 -
-    pid: folio-11
+    item: ca63b0b8-1d08-4854-b64a-09f4b9a58130
     url: https://gallica.bnf.fr/ark:/12148/bpt6k106727b
     org: Bibliothèque nationale de France
     links:
@@ -111,7 +111,7 @@
         url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k106727b/manifest.json
         title: "Palais, maisons, et autres édifices modernes, dessinés à Rome / publiés à Paris, l'an VI de la République française (1798, v. st.) [par Ch. Percier, P.-F.-L. Fontaine et Bernier]"
 -
-    pid: folio-11
+    item: ca63b0b8-1d08-4854-b64a-09f4b9a58130
     url: https://bibliotheque-numerique.inha.fr/idurl/1/15932
     org: Institut national d'histoire de l'art
     links:
@@ -119,7 +119,7 @@
         url: https://bibliotheque-numerique.inha.fr/iiif/15932/manifest
         title: "Palais, maisons, et autres édifices modernes, dessinés à Rome, publiés à Paris, l'an 6 de la République française (1798, v. st.)"
 -
-    pid: folio-12
+    item: 8463d42b-c2ec-44d6-92e8-038cf2e23e01
     url: https://gallica.bnf.fr/ark:/12148/bpt6k42464790
     org: Bibliothèque nationale de France
     links: 
@@ -127,7 +127,7 @@
         url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k42464790/manifest.json
         title: "Monumens de la Grèce, ou Collection des chefs-d'oeuvre d'architecture, de sculpture et de peinture antiques... par J.-G. Legrand,... T. I (1808)"
 -
-    pid: folio-13
+    item: 24b93c81-4d92-40b7-b463-94005077d5b3
     url: https://gallica.bnf.fr/ark:/12148/bpt6k856659g
     org: Bibliothèque nationale de France
     links:
@@ -135,11 +135,11 @@
         url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k856659g/manifest.json
         title: "Choix de costumes civils et militaires des peuples de l'antiquité, leurs instrumens de musique, leurs meubles et les décorations intérieures de leurs maisons d'après les monumens antiques, avec un texte tiré des anciens auteurs, dessiné, gravé et rédigé par N.-X. Willemin"
 -
-    pid: folio-14
+    item: efa0e933-bfc3-4e3a-8acd-ad83c0244751
     url: arachne.dainst.org/entity/15897
     org: University of Cologne
 -
-    pid: folio-14
+    item: efa0e933-bfc3-4e3a-8acd-ad83c0244751
     url: https://gallica.bnf.fr/ark:/12148/bpt6k5542340g
     org: Bibliothèque nationale de France
     links:
@@ -147,7 +147,7 @@
         url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5542340g/manifest.json
         title: "Arabesques antiques des bains de Livie et de la ville adrienne, avec les plafonds de la Ville-Madame : peints d'après les dessins de Raphaël et gravés par les soins de M. Ponce,... (Nouvelle édition) (1838)"
 -
-    pid: folio-15
+    item: d28f0366-f368-4dc4-8ce9-116a565f88af
     url: https://archive.org/details/gri_33125009324597
     org: Getty Research Institute
     links:
@@ -155,7 +155,7 @@
         url: https://archive.org/embed/gri_33125009324597
         title: "Les ruines des plus beaux monuments de la Grece : ouvrage divisé en deux parties, où l'on considere, dans la premiere, ces monuments du côté de l'histoire : et dans la seconde, du côté de l'architecture"
 -
-    pid: folio-15
+    item: d28f0366-f368-4dc4-8ce9-116a565f88af
     url: https://gallica.bnf.fr/ark:/12148/bpt6k854533n
     org: Bibliothèque nationale de France
     links:
@@ -163,11 +163,11 @@
         url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k854533n/manifest.json
         title: "Les Ruines des plus beaux monuments de la Grèce considérées du côté de l'histoire et du côté de l'architecture, par M. Le Roy,... 2e édition... (1770)"
 -
-    pid: folio-15
+    item: d28f0366-f368-4dc4-8ce9-116a565f88af
     url: arachne.dainst.org/entity/15231
     org: University of Cologne
 -
-    pid: folio-15-16
+    item: 1840d285-a70b-4844-9aa4-08beed9e64d2
     url: https://archive.org/details/gri_33125008626158
     org: Getty Research Institute
     links:
@@ -175,15 +175,15 @@
         url: https://archive.org/embed/gri_33125008626158
         title: Loggie di Rafaele nel Vaticano (1772)
 -
-    pid: folio-18
+    item: 12108ba0-9ea4-48e8-a5da-d8daccc75400
     url: https://hdl.handle.net/2027/gri.ark:/13960/t0gv00k0c
     org: Getty Research Institute
 -
-    pid: folio-19
+    item: f965445d-17af-4c43-bfe2-44cea47b0e8c
     url: https://hdl.handle.net/2027/gri.ark:/13960/t7hq8bj6v
     org: Getty Research Institute
 -
-    pid: folio-19
+    item: f965445d-17af-4c43-bfe2-44cea47b0e8c
     url: https://gallica.bnf.fr/ark:/12148/bpt6k850428s
     org: Bibliothèque nationale de France
     links:
@@ -191,7 +191,7 @@
         url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k850428s/manifest.json
         title: The ruins of Balbec, otherwise Heliopolis in Coelosyria
 -
-    pid: folio-20-24
+    item: 4a57ed0f-f4d7-4a2b-aeb6-c5fc3316bcc6
     url: https://www.e-rara.ch/zut/content/titleinfo/4859300
     org: ETH-Bibliothek Zürich
     links:
@@ -199,7 +199,7 @@
         url: https://www.e-rara.ch/i3f/v20/4859300/manifest
         title: "Voyage pittoresque ou description des royaumes de Naples et de Sicile"
 -
-    pid: folio-20-24
+    item: 4a57ed0f-f4d7-4a2b-aeb6-c5fc3316bcc6
     url: https://digi.ub.uni-heidelberg.de/diglit/saintnon1781ga
     org: Universitätsbibliothek Heidelberg
     links:
@@ -219,7 +219,7 @@
         url: https://digi.ub.uni-heidelberg.de/diglit/iiif/saintnon1786bd4_2/manifest.json
         title: Volume 4.2 (1786)
 -
-    pid: folio-25
+    item: 5eca1150-bde2-4e92-b76a-adfde591c6f7
     url: https://digi.ub.uni-heidelberg.de/diglit/lavallee1802/0006
     org: Universitätsbibliothek Heidelberg
     links:
@@ -227,7 +227,7 @@
         url: https://digi.ub.uni-heidelberg.de/diglit/iiif/lavallee1802/manifest.json
         title: Voyage pittoresque et historique de l'Istrie et de la Dalmatie (1802)
 -
-    pid: folio-26
+    item: 578d470c-13f2-4457-8b08-d362d379bac5
     url: https://gallica.bnf.fr/ark:/12148/btv1b8449081d
     org: Bibliothèque nationale de France
     links:
@@ -235,7 +235,7 @@
         url: https://gallica.bnf.fr/iiif/ark:/12148/btv1b8449081d/manifest.json
         title: "Voyage pittoresque de la Grèce. T. 1 / [par le Comte de Choiseul-Gouffier]"
 -
-    pid: folio-26
+    item: 578d470c-13f2-4457-8b08-d362d379bac5
     url: https://bibliotheque-numerique.inha.fr/idurl/1/5801
     org: Institut National d'Histoire de l'Art
     links:
@@ -243,7 +243,7 @@
         url: https://bibliotheque-numerique.inha.fr/iiif/5801/manifest
         title: "Voyage pittoresque de la Grèce : Tome premier"
 -
-    pid: folio-27-30
+    item: fabc9200-50b6-4875-8c78-a66a06d19b28
     url: https://gallica.bnf.fr/ark:/12148/bpt6k107640b
     org: Bibliothèque nationale de France
     links:
@@ -251,11 +251,11 @@
         url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k107640b/manifest.json
         title: "Voyage pittoresque des isles de Sicile, de Malte et de Lipari : où l'on traite des antiquités qui s'y trouvent encore, des principaux phénomènes que la nature y offre, du costume des habitans, et de quelques usages. 2 / par Jean Houel,..."
 -
-    pid: folio-27-30
+    item: fabc9200-50b6-4875-8c78-a66a06d19b28
     url: arachne.dainst.org/entity/16598
     org: University of Cologne
 -
-    pid: folio-31
+    item: f525a955-ab56-4f49-bcce-6c25f4ab6abc
     url: https://digi.ub.uni-heidelberg.de/diglit/moreau1728
     org: Universitätsbibliothek Heidelberg
     links:
@@ -263,7 +263,7 @@
         url: https://digi.ub.uni-heidelberg.de/diglit/iiif/moreau1728/manifest.json
         title: "Fragmens et ornemens d'architecture: dessinés à Rome d'après l'antique ; formant supplément a l'oeuvre d'architecture de Desgodets (1820)"
 -
-    pid: folio-31
+    item: f525a955-ab56-4f49-bcce-6c25f4ab6abc
     url: https://archive.org/details/gri_33125009548336
     org: Getty Research Institute
     links:
@@ -271,7 +271,7 @@
         url: https://archive.org/embed/gri_33125009548336
         title: "Architectural and ornamental details of ancient Rome, measured and drawn by Charles Moreau, architect; (1919)"
 -
-    pid: folio-32
+    item: f034fa4e-8a24-46ac-a694-fe9931bc37e9
     url: https://archive.org/details/gri_33125010859516
     org: Getty Research Institute
     links:
@@ -279,7 +279,7 @@
         url: https://archive.org/embed/gri_33125010859516
         title: "Alcune vedute di archi trionfali ed altri monumenti : inalzati da Romani parte de quali si veggono in Roma, e parte per l'Italia"
 -
-    pid: folio-33
+    item: 189abbb6-458a-4bd3-8b7f-780e9bb7e21d
     url: https://archive.org/details/gri_33125011111214
     org: Getty Research Institute
     links:
@@ -287,7 +287,7 @@
         url: https://archive.org/embed/gri_33125011111214
         title: Vedvte di Roma (1779)
 -
-    pid: folio-33
+    item: 189abbb6-458a-4bd3-8b7f-780e9bb7e21d
     url: https://archive.org/details/gri_33125010907554
     org: Getty Research Institute
     links:
@@ -295,7 +295,7 @@
         url: https://archive.org/embed/gri_33125010907554
         title: Vedvte di Roma (1779)
 -
-    pid: folio-34
+    item: a3eece03-b237-499e-aebc-3a5ae495e282
     url: https://archive.org/details/gri_33125011183007
     org: Getty Research Institute
     links:
@@ -303,7 +303,7 @@
         url: https://archive.org/embed/gri_33125011183007
         title: "Diversi maniere d'adornare i cammini : ed ogni altra parte degli edifizj desunte dall'architettura Egizia, Etrusca, e Greca con un Ragionamento apologetico in difesa dell'architettura Egizia e Toscana"
 -
-    pid: folio-34
+    item: a3eece03-b237-499e-aebc-3a5ae495e282
     url: https://gallica.bnf.fr/ark:/12148/btv1b53094841h
     org: Bibliothèque nationale de France
     links:
@@ -311,7 +311,7 @@
         url: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53094841h/manifest.json
         title: "Diversi maniere d'adornare i cammini : ed ogni altra parte degli edifizj desunte dall'architettura Egizia, Etrusca, e Greca con un ragionamento apologetico in difesa dell'architettura Egizia e Toscana ... ([1ère édition]) / Opera del cavaliere Giambattista Piranesi architetto"
 -
-    pid: folio-35
+    item: 9282c0d4-b6fe-455f-9ad4-f58023b7d685
     url: https://doi.org/10.3931/e-rara-13753
     org: ETH-Bibliothek Zürich
     links:
@@ -319,7 +319,7 @@
         url: https://www.e-rara.ch/i3f/v20/4213864/manifest
         title: "Ioannis Baptistae Piranesii ... De Romanorum magnificentia et architectura = : Della magnificenza ed architettura de' Romani / opera di Giovanni Battista Piranesi ..."
 -
-    pid: folio-35
+    item: 9282c0d4-b6fe-455f-9ad4-f58023b7d685
     url: https://archive.org/details/ioannisbaptista00pira
     org: Smithsonian Libraries
     links:
@@ -327,7 +327,7 @@
         url: https://archive.org/embed/ioannisbaptista00pira
         title: "Ioannis-Baptistae Piranesii antiquariorum regiae societatis Londinensis socii De Romanorum magnificentia et architectura"
 -
-    pid: folio-36
+    item: afde159a-92c9-4945-86eb-2bce9d239b1c
     url: https://archive.org/details/gri_33125008262210
     org: Getty Research Institute
     links:
@@ -335,7 +335,7 @@
         url: https://archive.org/embed/gri_33125008262210
         title: "Di Lucio Vitruuio Pollione De architectura libri dece : traducti de latino in vulgare, affigurati, cõmentati, & con mirando ordine insigniti: per il quale facilmente potrai trouare la multitudine de li abstrusi & reconditi vocabuli a li soi loci & in epsa tabula con summo studio expositi & enucleati ad immensa utilitate de ciascuno studioso & beniuolo di epsa opera"
 -
-    pid: folio-37
+    item: e83dc760-8b09-4077-bcd9-07d5ebd81b7c
     url: https://doi.org/10.3931/e-rara-7582
     org: ETH-Bibliothek Zürich
     links:
@@ -343,7 +343,7 @@
         url: https://www.e-rara.ch/i3f/v20/1980172/manifest
         title: "I dieci libri dell'architettura di M. Vitruvio tradutti et commentati da Monsignor Barbaro eletto patriarca d'Aquileggia"
 -
-    pid: folio-38
+    item: da414ac8-4475-4d23-98ac-8b6f18065005
     url: https://digi.ub.uni-heidelberg.de/diglit/vitruvius1649
     org: Universitätsbibliothek Heidelberg
     links:
@@ -351,7 +351,7 @@
         url: https://digi.ub.uni-heidelberg.de/diglit/iiif/vitruvius1649/manifest.json
         title: M. Vitrvvii Pollionis De architectvra libri decem
 -
-    pid: folio-39
+    item: 5a0b4008-5aae-4bb6-8301-a79007142bfd
     url: https://doi.org/10.3931/e-rara-54059
     org: ETH-Bibliothek Zürich
     links:
@@ -359,7 +359,7 @@
         url: https://www.e-rara.ch/i3f/v20/14701133/manifest
         title: "Les Dix Livres d'Architecture de Vitruve / corr., trad. nouvellement en François, avec des Notes, des Figures... par M. Perrault ..."
 -
-    pid: folio-40
+    item: d8571937-b63e-47a1-ac13-e40f8d13a628
     url: https://doi.org/10.3931/e-rara-52711
     org: ETH-Bibliothek Zürich
     links:
@@ -367,7 +367,7 @@
         url: https://www.e-rara.ch/i3f/v20/14461008/manifest
         title: "L' architettura di M. Vitruvio Pollione : dedicata alla Maestà di Carlo Re delle due Sicilie... / colla traduzione italiana e comento del Marchese Berardo Galiani"
 -
-    pid: folio-40
+    item: d8571937-b63e-47a1-ac13-e40f8d13a628
     url: https://archive.org/details/gri_33125008527570
     org: Getty Research Institute
     links:
@@ -375,7 +375,7 @@
         url: https://archive.org/embed/gri_33125008527570
         title: "L'architettura di M. Vitruvio Pollione : colla traduzione italiana e comento"
 -
-    pid: folio-42
+    item: f50c9742-74ad-47a1-8830-4f6d7117dac2
     url: https://digi.ub.uni-heidelberg.de/diglit/barbault1761
     org: Universitätsbibliothek Heidelberg
     links:
@@ -383,11 +383,11 @@
         url: https://digi.ub.uni-heidelberg.de/diglit/iiif/barbault1761/manifest.json
         title: "Les plus beaux monuments de Rome ancienne: Ou Recueil Des Plus Beaux Morceaux De L'Antiquité Romaine Qui Existent Encore"
 -
-    pid: folio-42
+    item: f50c9742-74ad-47a1-8830-4f6d7117dac2
     url: arachne.dainst.org/entity/1343065
     org: University of Cologne
 -
-    pid: folio-43
+    item: a100dc44-6368-4699-9353-8e892a4ee760
     url: https://digi.ub.uni-heidelberg.de/diglit/ercolano1757ga
     org: Universitätsbibliothek Heidelberg
     links:
@@ -398,7 +398,7 @@
         url: https://digi.ub.uni-heidelberg.de/diglit/iiif/ercolano1771bd6/manifest.json
         title: "Le antichità di Ercolano esposte (Band 6): Statue"
 -
-    pid: folio-44
+    item: 6a6ceb88-ab2b-4d7d-b682-2fa8c73fbd57
     url: https://gallica.bnf.fr/ark:/12148/bpt6k8860490
     org: Bibliothèque nationale de France
     links:
@@ -406,7 +406,7 @@
         url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8860490/manifest.json
         title: "Les Restes de l'ancienne Rome, recherchez avec soin, mesurez, dessinez sur les lieux et gravez par feu Bonaventure d'Overbeke, sous les pontificats d'Innocent XI, d'Alexandre VIII et d'Innocent XII, imprimé aux dépens de Michel d'Overbeke. Tome I [-III]"
 -
-    pid: folio-44
+    item: 6a6ceb88-ab2b-4d7d-b682-2fa8c73fbd57
     url: https://digi.ub.uni-heidelberg.de/diglit/overbeke1709ga
     org: Universitätsbibliothek Heidelberg
     links:
@@ -420,7 +420,7 @@
         url: https://digi.ub.uni-heidelberg.de/diglit/iiif/overbeke1709bd3/manifest.json
         title: Les Restes De L'Ancienne Rome (Band 3)
 -
-    pid: folio-45
+    item: ff465028-6e5b-4819-8a34-0dec2c0a64ff
     url: https://archive.org/details/gri_33125011113459
     org: Getty Research Institute
     links:
@@ -428,7 +428,7 @@
         url: https://archive.org/embed/gri_33125011113459
         title: "Original designs in architecture : consisting of plans, elevations, and sections, for villas, mansions, town-houses, &c., and a new design for a theatre : with descriptions, and explanations of the plates, and an introduction to the work"
 -
-    pid: folio-45
+    item: ff465028-6e5b-4819-8a34-0dec2c0a64ff
     url: https://archive.org/details/gri_33125009747607
     org: Getty Research Institute
     links:
@@ -436,7 +436,7 @@
         url: https://archive.org/embed/gri_33125009747607
         title: "Original designs in architecture : consisting of plans, elevations, and sections, for villas, mansions, town-houses, &c., and a new design for a theatre : with descriptions, and explanations of the plates, and an introduction to the work"
 - 
-    pid: folio-46-47
+    item: e3157c9b-07a2-4436-b60a-5b6e9b04d8f2
     url: https://digi.ub.uni-heidelberg.de/diglit/scamozzi1796ga
     org: Universitätsbibliothek Heidelberg
     links:
@@ -453,7 +453,7 @@
         url: https://digi.ub.uni-heidelberg.de/diglit/iiif/scamozzi1796bd4/manifest.json
         title: "Les bâtiments et les desseins de André Palladio: avec des planches, qui répresentent les plans, les facades, et les coupes (Band 4)"
 -
-    pid: folio-46-47
+    item: e3157c9b-07a2-4436-b60a-5b6e9b04d8f2
     url: https://doi.org/10.3931/e-rara-55274
     org: ETH-Bibliothek Zürich
     links:
@@ -461,7 +461,7 @@
         url: https://www.e-rara.ch/i3f/v20/14945447/manifest
         title: "Le fabbriche e i disegni di Andrea Palladio : Les batimens et les desseins de André Palladio / raccolti ed illustrati da Ottavio Bertotti Scamozzi = recueillis et illustrés par Octave Bertotti Scamozzi"
 -
-    pid: folio-48-49
+    item: 503a82a3-9a19-4006-95a8-f61a0cbd6d26
     url: https://doi.org/10.3931/e-rara-13021
     org: ETH-Bibliothek Zürich
     links:
@@ -469,7 +469,7 @@
         url: https://www.e-rara.ch/i3f/v20/3982323/manifest
         title: "The four books of architecture / by Andrea Palladio ; literally translated from the original Italian by Isaac Ware"
 -
-    pid: folio-51
+    item: 44d35ac8-ec3b-4fda-8f60-b0c87cd49905
     url: https://polona.pl/item/anfang-einiger-vorstellungen-der-vornehmsten-gebaude-so-wohl-innerhalb-der-stadt-als-in,ODg4MDE4NQ/ 
     org: The National Library of Poland
     links:
@@ -477,27 +477,27 @@
         url: https://polona.pl/iiif/item/ODg4MDE4NQ/manifest.json
         title: "Anfang einiger Vorstellungen der Vornehmsten Gebäude so wohl innerhalb der Stadt als in den Vostädten von Wien, wovon mit der Zeit das abgehende nachfolgen soll = Commencement de veues et de façades principales dans la ville et aux fauxbourgs de Vienne [...]."
 -
-    pid: folio-52
+    item: 88e605b8-40c1-44b3-9fa1-09caf878bb43
     url: https://books.google.nl/books?id=CXUE0Oh_SK0C
     org: Bibliothèque jésuite des Fontaines
 -
-    pid: folio-52
+    item: 88e605b8-40c1-44b3-9fa1-09caf878bb43
     url: https://catalog.hathitrust.org/Record/100578068
     org: Getty Research Institute
 -
-    pid: folio-52
+    item: 88e605b8-40c1-44b3-9fa1-09caf878bb43
     url: http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10862767-1
     org: Bayerische Staatsbibliothek
 -
-    pid: folio-53
+    item: b5fc984b-34ca-40f1-b05b-be8a4acbe9c8
     url: http://architectura.cesr.univ-tours.fr/Traite/Notice/CESR_4045.asp
     org: Université François-Rabelais
 -
-    pid: folio-54
+    item: 640fc6cd-a562-4a5a-9eda-0aacd43bf40c
     url: https://catalog.hathitrust.org/Record/101696591
     org: Getty Research Institute
 -
-    pid: folio-54
+    item: 640fc6cd-a562-4a5a-9eda-0aacd43bf40c
     url: https://archive.org/details/gri_33125008448025
     org: Getty Research Institute
     links:
@@ -505,7 +505,7 @@
         url: https://archive.org/embed/gri_33125008448025
         title: "Opere varie di architettura prospettive grotteschi antichità sul gusto degli antichi romani"
 -
-    pid: folio-55
+    item: e7df7868-7d3e-4ad3-bbd0-65ad762355f7
     url: https://gallica.bnf.fr/ark:/12148/bpt6k85636g
     org: Bibliothèque nationale de France
     links:
@@ -513,7 +513,7 @@
         url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k85636g/manifest.json
         title: "Le premier tome de l'architecture de Philibert de L'Orme conseillier et aumosnier ordinaire du Roy, & abbé de S. Serge lez Angiers (1567)"
 -
-    pid: folio-55
+    item: e7df7868-7d3e-4ad3-bbd0-65ad762355f7
     url: https://gallica.bnf.fr/ark:/12148/bpt6k854656s
     org: Bibliothèque nationale de France
     links:
@@ -521,7 +521,7 @@
         url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k854656s/manifest.json
         title: "Le premier tome de l'Architecture, de Philibert de L'Orme,... (1568)"
 -
-    pid: folio-56
+    item: d97897db-cfcb-477f-b7d0-7d1a0bc57ff7
     url: https://gallica.bnf.fr/ark:/12148/btv1b8609517b
     org: Bibliothèque nationale de France
     links:
@@ -529,7 +529,7 @@
         url: https://gallica.bnf.fr/iiif/ark:/12148/btv1b8609517b/manifest.json
         title: "Nouvelles inventions pour bien bastir et à petits fraiz / trouvées n'a guères par Philibert de l'Orme,..."
 -
-    pid: folio-56
+    item: d97897db-cfcb-477f-b7d0-7d1a0bc57ff7
     url: https://doi.org/10.3931/e-rara-7
     org: ETH-Bibliothek Zürich
     links:
@@ -537,11 +537,11 @@
         url: https://www.e-rara.ch/i3f/v20/202/manifest
         title: "Nouvelles inventions pour bien bastir et a petits fraiz, trouvées n'aguères par Philibert de l'Orme ..."
 -
-    pid: folio-56
+    item: d97897db-cfcb-477f-b7d0-7d1a0bc57ff7
     url: http://architectura.cesr.univ-tours.fr/Traite/Notice/ENSBA_Masson643.asp
     org: Université François-Rabelais
 -
-    pid: folio-57
+    item: cae88557-7115-4fff-a6c2-288d30804d8e
     url: https://gallica.bnf.fr/ark:/12148/bpt6k10400023
     org: Bibliothèque nationale de France
     links:
@@ -549,7 +549,7 @@
         url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k10400023/manifest.json
         title: "Manière de bien bastir pour toutes sortes de personnes , par Pierre Le Muet,... reveue, augmentée et enrichie, en cette 2e édition, de plusieurs figures, de beaux bastiments & édifices, de l'invention & conduitte dudit sieur Le Muet, & autres"
 -
-    pid: folio-58
+    item: 7ab8a9f3-d895-4fbe-a48f-46008ae5e67f
     url: https://digi.ub.uni-heidelberg.de/diglit/lepautre1751ga
     org: Universitätsbibliothek Heidelberg
     links:
@@ -563,7 +563,7 @@
         url: https://digi.ub.uni-heidelberg.de/diglit/iiif/lepautre1751bd3/manifest.json
         title: "Oeuvres D'Architecture De Jean Le Pautre, Architecte, Dessinateur & Graveur du Roi (Band 3)"
 -
-    pid: folio-58
+    item: 7ab8a9f3-d895-4fbe-a48f-46008ae5e67f
     url: https://bibliotheque-numerique.inha.fr/idurl/1/49419
     org: Institut National d'Histoire de l'Art
     links:
@@ -571,7 +571,7 @@
         url: https://bibliotheque-numerique.inha.fr/iiif/49419/manifest
         title: "Oeuvres d'architecture de Jean Le Pautre, Architecte, Dessinateur & Graveur du Roi. Tome premier."
 -
-    pid: folio-58
+    item: 7ab8a9f3-d895-4fbe-a48f-46008ae5e67f
     url: https://bibliotheque-numerique.inha.fr/idurl/1/49430
     org: Institut National d'Histoire de l'Art
     links:
@@ -579,7 +579,7 @@
         url: https://bibliotheque-numerique.inha.fr/iiif/49430/manifest
         title: "Oeuvres d'architecture de Jean Le Pautre, Architecte, Dessinateur & Graveur du Roi. Tome second."
 -
-    pid: folio-58
+    item: 7ab8a9f3-d895-4fbe-a48f-46008ae5e67f
     url: https://bibliotheque-numerique.inha.fr/idurl/1/49434
     org: Institut National d'Histoire de l'Art
     links:
@@ -587,11 +587,11 @@
         url: https://bibliotheque-numerique.inha.fr/iiif/49434/manifest
         title: "Oeuvres d'architecture de Jean Le Pautre, Architecte, Dessinateur & Graveur du Roi. Tome troisième."
 -
-    pid: folio-58
+    item: 7ab8a9f3-d895-4fbe-a48f-46008ae5e67f
     url: http://architectura.cesr.univ-tours.fr/Traite/Notice/ENSBA_LES1644.asp
     org: Université François-Rabelais
 -
-    pid: folio-59-62
+    item: 982ed189-476c-4bcb-bfbf-262a1f9a9409
     org: Universitätsbibliothek Heidelberg
     url: http://digi.ub.uni-heidelberg.de/diglit/murr1777ga
     thumb: https://digi.ub.uni-heidelberg.de/iiif/2/murr1777bd1%3A0000e.jpg/full/500,/0/default.jpg
@@ -615,7 +615,7 @@
         title: Volume 6 (1783)
         url: https://digi.ub.uni-heidelberg.de/diglit/iiif/murr1783bd6/manifest.json
 -
-    pid: folio-59-62
+    item: 982ed189-476c-4bcb-bfbf-262a1f9a9409
     org: Bayerische Staatsbibliothek
     url: http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10222209-2
     links:
@@ -624,7 +624,7 @@
         url: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10222207/manifest
     thumb: https://api.digitale-sammlungen.de/iiif/image/v2/bsb10222207_00005/full/500,/0/default.jpg
 -
-    pid: folio-63
+    item: 7379e2ba-fd15-4052-bb6a-13eb25481971
     url: https://archive.org/details/gri_33125012907867
     org: Getty Research Institute
     links:
@@ -632,7 +632,7 @@
         url: https://archive.org/embed/gri_33125012907867
         title: L'anfiteatro Flavio, descritto e delineato dal cavaliere Carlo Fontana
 -
-    pid: folio-64-65
+    item: b21aae5c-9b8d-45e0-be88-4a7a5635c1f3
     url: https://digitalesammlungen.uni-weimar.de/viewer/resolver?urn=urn:nbn:de:gbv:wim2-g-1036642
     org: Bauhaus-Universität Weimar
     links:
@@ -643,15 +643,15 @@
         url: https://digitalesammlungen.uni-weimar.de/viewer/rest/iiif/manifests/PPN672192691/manifest
         title: "Band 2"
 -
-    pid: folio-64-65
+    item: b21aae5c-9b8d-45e0-be88-4a7a5635c1f3
     url: https://arachne.dainst.org/entity/15315
     org: University of Cologne
 -
-    pid: folio-64-65
+    item: b21aae5c-9b8d-45e0-be88-4a7a5635c1f3
     url: https://arachne.dainst.org/entity/15316
     org: University of Cologne
 -
-    pid: folio-64-65
+    item: b21aae5c-9b8d-45e0-be88-4a7a5635c1f3
     url: https://archive.org/details/altedenkmalerde00winc
     org: Getty Research Institute
     links: 
@@ -659,7 +659,7 @@
         url: https://archive.org/embed/altedenkmalerde00winc
         title: "Alte Denkmäler der Kunst"
 -
-    pid: folio-66-67
+    item: 7c7d3f8c-2e3e-4b6e-b973-c8c0005406d7
     url: https://gallica.bnf.fr/ark:/12148/bpt6k856939
     org: Bibliothèque nationale de France
     links:
@@ -667,7 +667,7 @@
         url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k856939/manifest.json
         title: "Oeuvres d'architecture de Marie-Joseph Peyre (Nouvelle édition) / . Nouvelle édition, augmentée d'un Discours sur les monumens des anciens comparés aux nôtres et sur leur manière d'employer les colonnes"
 -
-    pid: folio-66-67
+    item: 7c7d3f8c-2e3e-4b6e-b973-c8c0005406d7
     url: https://archive.org/details/gri_33125010864763
     org: Getty Research Institute
     links:
@@ -675,7 +675,7 @@
         url: https://archive.org/embed/gri_33125010864763
         title: "Œuvres d'architecture de Marie-Joseph Peyre, architecte, ancien pensionnaire du roi à Rome, inspecteur des bâtimens de sa majesté"
 -
-    pid: folio-68
+    item: 87e48b75-3484-4914-b461-1d3ec2a862b1
     url: http://arks.princeton.edu/ark:/88435/jh343s34r
     org: Princeton University Library
     links:
@@ -683,7 +683,7 @@
         url: https://figgy.princeton.edu/concern/scanned_resources/b73d935c-6b6d-44ec-a55b-5883cc51b465/manifest
         title: "Palazzi di Roma de piv celebri architetti, disegnati da Pietro Ferrerio"
 -
-    pid: folio-68
+    item: 87e48b75-3484-4914-b461-1d3ec2a862b1
     url: https://archive.org/details/gri_33125012602732
     org: Getty Research Institute
     links:
@@ -691,7 +691,7 @@
         url: https://archive.org/embed/gri_33125012602732
         title: "Palazzi di Roma de piv celebri architetti"
 -
-    pid: folio-69
+    item: 867552aa-f0f5-4adb-96f0-0dfd7de88cf1
     url: https://gallica.bnf.fr/ark:/12148/bpt6k314330w
     org: Bibliothèque nationale de France
     links:
@@ -699,7 +699,7 @@
         url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k314330w/manifest.json
         title: "Description des travaux qui ont précédé, accompagné et suivi la fonte en bronze d'un seul jet de la statue équestre de Louis XV, le Bien-Aimé / dressée sur les mémoires de M. Lempereur,... par M. Mariette,..."
 -
-    pid: folio-69
+    item: 867552aa-f0f5-4adb-96f0-0dfd7de88cf1
     url: https://archive.org/details/gri_33125010908289
     org: Getty Research Institute
     links:
@@ -707,7 +707,7 @@
         url: https://archive.org/embed/gri_33125010908289
         title: "Description des travaux qui ont précédé, accompagné et suivi la fonte en bronze d'un seul jet de la statue équestre de Louis XV le Bien-Aimé. Dressée sur les mémoires de M. Lempereur, ancien echevin"
 -
-    pid: folio-70
+    item: 1fe1fc32-faed-4364-84b5-44cb1b363a34
     url: https://bibliotheque-numerique.inha.fr/idurl/1/5854
     org: Institut National d'Histoire de l'Art
     links:
@@ -715,7 +715,7 @@
         url: https://bibliotheque-numerique.inha.fr/iiif/5854/manifest
         title: "Antiquités de la France : Première partie : Monumens de Nîmes"
 -
-    pid: folio-70
+    item: 1fe1fc32-faed-4364-84b5-44cb1b363a34
     url: https://archive.org/details/gri_33125010884381
     org: Getty Research Institute
     links:
@@ -723,11 +723,11 @@
         url: https://archive.org/embed/gri_33125010884381
         title: "Antiquités de la France"
 -
-    pid: folio-78
+    item: 2683ef4c-94d7-4f46-9b5f-7cfcaa6b11cd
     url: https://www.metmuseum.org/art/collection/search/355281
     org: The Metropolitan Museum of Art
 -
-    pid: folio-88
+    item: 8d0bb447-5185-4ae9-9fec-ba1ef68d066d
     url: http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11193486_00005.html
     org: Bayerische Staatsbibliothek
     thumb: https://api.digitale-sammlungen.de/iiif/image/v2/bsb11193486_00005/full/500,/0/default.jpg
@@ -736,15 +736,15 @@
         url: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11193486/manifest
         title: "Ruinen und Ueberbleibsel von Athen: nebst andern merkwürdigen Alterthümern Griechenlands ; nun mit einem aus der englischen Beschreibung zur Erläuterung derselben kurzverfaßten historischen Auszuge nach dem englischen Original (1782)"
 -
-    pid: folio-98
+    item: cbaaf7aa-386d-4dcb-b71c-5d5b4e6c5599
     url: http://digital.slub-dresden.de/werkansicht/dlf/11062/1/
     org: SLUB Dresden
 - 
-    pid: folio-102
+    item: 02b0635d-f0d8-4b53-95ea-2fd4e547319a
     url: http://daten.digitale-sammlungen.de/~db/0006/bsb00065660/images/
     org: Bayerische Staatsbibliothek
 -
-    pid: folio-106
+    item: 75c4ceb8-dacd-4681-8db4-f7c7f20bc737
     url: http://digi.ub.uni-heidelberg.de/diglit/fischer1725
     org: Heidelberg University Library
     thumb: https://digi.ub.uni-heidelberg.de/iiif/2/fischer1725%3A001.jpg/full/500,/0/default.jpg
@@ -753,7 +753,7 @@
         url: https://digi.ub.uni-heidelberg.de/diglit/iiif/fischer1725/manifest.json
         title: "Entwurff Einer Historischen Architectur: in Abbildung unterschiedener berühmten Gebäude des Alterthums und fremder Völcker ; umb aus den Geschicht-büchern, Gedächtnüß-münzen, Ruinen, und eingeholten wahrhafften Abrißen, vor Augen zu stellen (1725)"
 -
-    pid: folio-110
+    item: 828e9f01-1bbe-40a2-a875-0b4f67285c9c
     url: https://bibliotheque-numerique.inha.fr/idurl/1/15741
     org: Institut National d'Histoire de l'Art
     links:
@@ -761,7 +761,7 @@
         url: https://bibliotheque-numerique.inha.fr/iiif/15741/manifest
         title: Description de la Grotte de Versailles (1679)
 -
-    pid: folio-113
+    item: 0b502ffe-7fbd-48ef-9bf3-2e71932c6bfb
     url: http://gallica.bnf.fr/ark:/12148/btv1b85290227/
     org: Bibliothèque nationale de France
     thumb: https://gallica.bnf.fr/iiif/ark:/12148/btv1b85290227/f7/full/500,/0/native.jpg
@@ -770,15 +770,15 @@
         url: https://gallica.bnf.fr/iiif/ark:/12148/btv1b85290227/manifest.json
         title: "Nouvelle iconologie historique, ou Attributs hiéroglyphiques qui ont pour objets les quatre éléments, les quatre saisons, les quatre parties du monde et les différentes complexions de l'homme / par Jean Charles Delafosse architecte, décorateur et professeur en desseins. (1768)"
 -
-    pid: folio-116
+    item: 139d7c9f-c6f9-42ef-a293-103f21d68ee6
     url: http://architectura.cesr.univ-tours.fr/Traite/Notice/ENSBA1273.asp?param=en
     org: Centre d'Études Supérieures de la Renaissance
 -
-    pid: folio-120
+    item: 89143193-e415-4e70-9998-24c46407b3a7
     url: http://daten.digitale-sammlungen.de/~db/0007/bsb00074561/images/index.html?seite=00001&l=en
     org: Bavarian State Library
 -
-    pid: folio-129
+    item: 8a6d8da5-0ea6-4038-84af-7060cf49aa9f
     url: http://gdz.sub.uni-goettingen.de/dms/load/img/?PID=PPN806821353
     org: SUB Göttingen
     thumb: https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN806821353:00000007/full/500,/0/default.jpg
