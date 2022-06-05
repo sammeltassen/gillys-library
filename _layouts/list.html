@@ -32,19 +32,40 @@ layout: default
 				<div class="item">
 					<a class="pid hidden">{{ item.pid }}</a>
 					<a class="index hidden">{{ item.index }}</a>
-					<span class="format"><strong>{{ item.format }}</strong></span>
-					<p class="author">{{ item.author }}</p>
-					<p class="title">{{ item.title }}</p>
-					<p class="publisher">{{ item.publisher }}</p>
+					<p><span class="format"><strong>{{ item.format }}</strong></span><br>
+					<span>{{ item.catalogue }}</span></p>
 				</div>
 			</div>
 			<div class="panel">
-				{% if item.description %}
-				<p class="description">{{ item.description }}</p>
-				{% endif %}
-				{% if item.udk %}
-				<p class="udk">View title at the Berlin University of the Arts: <a href="https://udk-berlin.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,{{ item.udk | truncate: 7, "" | url_encode }}&tab=default_tab&search_scope=default_scope&vid=UDK&facet=domain,include,Sammlung%20Friedrich%20Gilly&lang=de_DE&offset=0">{{ item.udk }}</a></p>
-				{% endif %}
+				<table>
+					<tr>
+						<th style="width: 6em;">Metadata</th>
+					</tr>
+					<tr>
+						<th>Author</th>
+						<td class="author">{{ item.author }}</td>
+					</tr>
+					<tr>
+						<th>Title</th> 
+						<td class="title">{{ item.title }}</td> 
+					</tr>
+					<tr>
+						<th>Publisher</th>
+						<td class="publisher">{{ item.publisher }}</td>
+					</tr>
+					{% if item.udk %}
+					<tr>
+						<th>UdK</th>
+						<td class="udk"><a href="https://udk-berlin.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,{{ item.udk | truncate: 7, "" | url_encode }}&tab=default_tab&search_scope=default_scope&vid=UDK&facet=domain,include,Sammlung%20Friedrich%20Gilly&lang=de_DE&offset=0">{{ item.udk }}</a></td>
+					</tr>
+					{% endif %}
+					{% if item.description %}
+					<tr>
+						<th>Description</th>
+						<td><span class="description">{{ item.description }}</span></td>						
+					</tr>
+					{% endif %}
+				  </table>
 				{% capture pid %}{{ item.pid }}{% endcapture %}
 				{% include digital.html pid=pid %}
 				<p><div class="edition"><a target="_blank" href="http://www.google.com/search?q={{ item.title | replace: "[", "" | replace: "]", "" | url_encode }}">Search title on Google</a></div></p>

@@ -1,20 +1,23 @@
 {% assign editions = site.data.digital | where: "pid", include.pid %}
 {% if editions.size >= 1 %}
     <a class="digital hidden">yes</a>
+    <table>
+        <tr>
+            <th>Digital editions</th>
+        </tr>
     {% for edition in editions %}
-        <ul class="edition">
-            <li>
-            <a target="_blank" href="{{ edition.url }}">{{ edition.org }}</a>
-            {% if edition.links %}
-                <ul>
-                {% for link in edition.links %}
-                <li><a class="manifest" href="{% if link.url contains "manifest" %}assets/uv/uv.html#?manifest={% endif %}{{ link.url }}">{{ link.title }}</a></li>
-                {% endfor %}
-                </ul>
-            {% endif %}
-            </li>
-        </ul>
+        <tr>
+            <th><a target="_blank" href="{{ edition.url }}">{{ edition.org }}</a></th>
+        </tr>
+        {% if edition.links %}
+        {% for link in edition.links %}
+        <tr>
+            <td><a class="manifest" href="{% if link.url contains "manifest" %}assets/uv/uv.html#?manifest={% endif %}{{ link.url }}">{{ link.title }}</a></td>
+        </tr>
+        {% endfor %}
+        {% endif %}
     {% endfor %}
+    </table>
 {% else %}
     <p>No digital editions added (yet).</p>
 {% endif %}
