@@ -10,7 +10,7 @@ This website provides a digital index of the library of Berlin architect Friedri
 
 Read more about Gilly's library in [this introduction](/gillys-library/introduction) by Barry Bergdoll. Or come to the presentation at the Berlin University of the Arts on Sat Jul 2, 2022 by María Ocón Fernández, Michael Bollé and Jules Schoonman, see: [Lange Nacht der Wissenschaften - Friedrich Gilly (1772–1800): Ein Architekt und seine private Büchersammlung](https://www.udk-berlin.de/veranstaltung/ausbildung-von-architekten/).
 
-Image: *Portrait of Friedrich Gilly by Friedrich Georg Weitsch (1758-1828)*. Collection: <a href="https://smb.museum-digital.de/index.php?t=objekt&oges=143969">Nationalgalerie, Berlin</a>.
+Image: *Portrait of Friedrich Gilly by Friedrich Georg Weitsch (1758-1828)*. Collection: <a href="https://smb.museum-digital.de/index.php?t=objekt&oges=143969">Alte Nationalgalerie, Berlin</a>.
 
 <div style="clear:both"></div>
 
@@ -25,4 +25,4 @@ Secondary literature:
 - [Michael Bollé, María Ocón Fernández (2019) *Die Büchersammlung Friedrich Gillys (1772―1800): Provenienz und Schicksal einer Architektenbibliothek im theoretischen Kontext des 18. Jahrhunderts*, Berlin: Gebr. Mann. A selection of the extensive bibliographic information in this book has been generously made available by the authors to complete the digital index.](https://doi.org/10.5771/9783786175018)
 - [Friedrich Gilly (1994) *Essays on Architecture, 1796-1799,* Santa Monica, CA: Getty Center for the History of Art and the Humanities. With an introduction by Fritz Neumeyer and a reproduction of the Library index.](http://www.getty.edu/publications/virtuallibrary/0892362812.html)
 
-| Research by<br>[María Ocón Fernández](https://uni-heidelberg.academia.edu/Mar%C3%ADaOcónFernández) | Website by<br>[Jules Schoonman](https://sammeltassen.nl) | Source code<br>[GitHub](https://github.com/sammeltassen/gillys-library) |
+| Research by<br>[Michael Bollé](https://www.udk-berlin.de/studium/architektur/fachgebiete/architekturgeschichte-und-architekturtheorie/team/publikationen-prof-dr-michael-bolle/)<br>[María Ocón Fernández](https://uni-heidelberg.academia.edu/Mar%C3%ADaOcónFernández) | Website by<br>[Jules Schoonman](https://sammeltassen.nl) | Source code<br>[GitHub](https://github.com/sammeltassen/gillys-library) |
