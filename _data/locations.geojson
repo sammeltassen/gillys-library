@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Gillysches Haus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.388932943344114,
+          52.512791429810115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Akademie der Künste"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.391641974449158,
+          52.51750050804369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Münzgebäude",
+        "description": "Bauakademie & Oberbaudepartement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.398645222187042,
+          52.51514521587909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Die Königliche Bank",
+        "description": "Housed the Ober-Bau-Departement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39756965637207,
+          52.5142164485024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Bauakademie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.398942947387695,
+          52.515842186588095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Thielsches Haus",
+        "period": "1806-36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.391996026039124,
+          52.50761330966101
+        ]
+      }
+    }
+  ]
+}
