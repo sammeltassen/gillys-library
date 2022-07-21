@@ -1,3 +1,2 @@
-url: "https://sammeltassen.nl" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/gillys-library" # the subpath of your site, e.g. /blog
+url: "https://www.gillys-library.org" # the base hostname & protocol for your site, e.g. http://example.com
 title: "Gilly's Library" # the name of your site, e.g. ACME Corp.
