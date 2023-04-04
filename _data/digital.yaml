@@ -866,6 +866,7 @@
     pid: folio-89
     url: https://doi.org/10.11588/diglit.4047
     org: Heidelberg University Library
+    links:
     -
         url: https://digi.ub.uni-heidelberg.de/diglit/iiif/barbault1767/manifest
         title: "Denkmäler des Alten Roms, oder Sammlung der vornehmsten und noch in Rom vorhandenen Alterthümer: nach Barbaults Zeichnung nebst einer Erklärung derselben"
@@ -873,6 +874,7 @@
     pid: folio-91-92
     url: https://archive.org/details/segmentanobilium00perr/
     org: Getty Research Institute
+    links:
     -
         url: https://archive.org/embed/segmentanobilium00perr/
         title: "Segmenta nobilium signorum e statuaru : quæ temporis dentem inuidium euasere Urbis æternæ ruinis erepta, typis æneis ab se commissa perptuæ uenerationis monimentum"
