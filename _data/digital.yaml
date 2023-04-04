@@ -819,3 +819,111 @@
     -
         url: https://digi.ub.uni-heidelberg.de/diglit/iiif/semler1748/manifest
         title: "Joh. Salom. Semlers Erleuterung der egyptischen Altertümer, durch Uebersetzung der Schrift Plutarchs von der Isis und dem Osiris und der Nachricht von Egypten aus Herodots zweitem Buch mit beigefügten Anmerckungen"
+-
+    pid: folio-73
+    url: https://archive.org/details/02413153.5462.emory.edu/
+    org: Emory University Libraries
+    links:
+    -
+        url: https://archive.org/embed/02413153.5462.emory.edu/
+        title: "Columna Cochlis M. Aurelio Antonino Augusto dicata eius rebus gestis in germanicâ : atque sarmaticâ expeditione insignis, ex. S.C. Romae ad viam Flaminiam erecta, ac utriusque belli imaginibus anaglyphice insculpta"
+-
+    pid: folio-79
+    url: https://archive.org/details/gri_33125007944073/
+    org: Getty Research Institute
+    links:
+        url: https://archive.org/details/gri_33125007944073/
+        title: "Architettura della basilica di S. Pietro in Vaticano : Opera di Bramante Lazzari, Michel'Angelo Bonarota, Carlo Maderni, e altri famosi architetti"
+-
+    pid: folio-86
+    url: https://gallica.bnf.fr/ark:/12148/bpt6k3117309
+    org: Bibliothèque nationale de France
+    links:
+    -
+        url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k3117309/manifest.json
+        title: "Antiquae Urbis splendor... opera... Jacobi Lauri,... in aes incisa atque in lucem edita. Addita est brevis quaedam... imaginum expliatio... cum almae Urbis antiquorum ac modernorum vestigiorum additione utcumque hoc insequenti anno 1630 reperiuntur..."
+-
+    pid: folio-86
+    url: https://gallica.bnf.fr/ark:/12148/bpt6k1519134k
+    org: Bibliothèque nationale de France
+    links:
+    -
+        url: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1519134k/manifest.json
+        title: "Antiquae Urbis splendor, hoc est praecipua ejusdem templa, amphitheatra, theatra, circi... aliaque sumptuosiora aedificia... opera et industria Jacobi Lauri,... in aes incisa atque in lucem edita. Addita est brevis quaedam... imaginum explicatio, in qua regum, consulum imperatorumque res gestae et rei romanae origo, progressus, incrementum ac finis ex historiarum monumentis ostenditur. - Antiquitatum Urbis liber secundus, eodem autore et sculptore Jacobo Lauro,..."
+-
+    pid: folio-86
+    url: https://www.rijksmuseum.nl/nl/collectie/RP-P-2016-345
+    org: Rijksmuseum
+-
+    pid: folio-87
+    url: https://archive.org/details/gri_33125011118912/
+    org: Getty Research Institute
+    links:
+    -
+        url: https://archive.org/embed/gri_33125011118912/
+        title: "Insignium Romae templorum prospectus exteriores interioresque, a celebrioribus architectis inventi : nunc tandem suis cum plantis ac mensuris a Io. Iacobo de Rubeis Romano suis typis in lucem editi ad aedem Pacis : cum privilegio Summi Pontificis, anno MDCLXXXIIII"
+-
+    pid: folio-89
+    url: https://doi.org/10.11588/diglit.4047
+    org: Heidelberg University Library
+    -
+        url: https://digi.ub.uni-heidelberg.de/diglit/iiif/barbault1767/manifest
+        title: "Denkmäler des Alten Roms, oder Sammlung der vornehmsten und noch in Rom vorhandenen Alterthümer: nach Barbaults Zeichnung nebst einer Erklärung derselben"
+-
+    pid: folio-91-92
+    url: https://archive.org/details/segmentanobilium00perr/
+    org: Getty Research Institute
+    -
+        url: https://archive.org/embed/segmentanobilium00perr/
+        title: "Segmenta nobilium signorum e statuaru : quæ temporis dentem inuidium euasere Urbis æternæ ruinis erepta, typis æneis ab se commissa perptuæ uenerationis monimentum"
+-
+    pid: folio-111
+    url: https://doi.org/10.3931/e-rara-14840
+    org: ETH-Bibliothek Zürich
+    links:
+    -
+        url: https://www.e-rara.ch/i3f/v20/4639693/manifest
+        title: "Eigentliche Vorstellung der vortreflichen und kostbaren kaiserlichen Bibliothec / welche auf allergnädigsten Befehl des allerdurchlauchtigsten ... Herrn Carls des Sechsten, erwählten römischen Kaisers ... &c.; unter der hohen Direction Sr. hochgräfl. Excellenz Herrn Gundacker ... Grafen von Althann; von Hr. Joseph Emanuel, Freyherrn von Fischer ... aufgeführet worden; das Gebäude hat nach allen Theilen genau abgemessen, gezeichnet und darauf in Kupffer gebracht Salomon Kleiner ...; die darin befindliche kunst- und sinnreiche Mahlereyen aber sind mit gleicher Sorgfalt abgezeichnet und auch in Kupffer gestochen worden von Jeremias Jacob Sedelmayr; nebst beygefügter Erklärung aller Blätter"
+-
+    pid: folio-114
+    url: https://archive.org/details/gri_33125008676393
+    org: Getty Research Institute
+    links:
+    -
+        url: https://archive.org/embed/gri_33125008676393
+        title: Salle de spectacle de Bordeaux
+-
+    pid: quarto-94-95
+    url: https://doi.org/10.3931/e-rara-12154
+    org: ETH-Bibliothek Zürich
+    links:
+    -
+        url: https://www.e-rara.ch/i3f/v20/3814910/manifest
+        title: "Handbuch der Land-Bau-Kunst, vorzüglich in Rücksicht auf die Construction der Wohn- und Wirthschafts-Gebäude für angehende Cameral-Baumeister und Oeconomen. Erster[- dritter] Theil / von David Gilly"
+-
+    pid: quarto-4-5
+    url: https://nbn-resolving.org/urn:nbn:de:hbz:466:1-48408
+    org: Universitätsbibliothek Paderborn
+    links:
+    -
+        url: https://digital.ub.uni-paderborn.de/i3f/v20/3079195/manifest
+        title: "Des Marcus Vitruvius Pollio Baukunst / Aus Der Römischen Urschrift Übersetzt Von August Rode"
+-
+    pid: quarto-4-5
+    url: https://doi.org/10.11588/diglit.1867
+    org: Heidelberg University Library
+    links:
+    -
+        url: https://digi.ub.uni-heidelberg.de/diglit/iiif/vitruvius1796a/manifest
+        title: "Des Marcus Vitruvius Pollio Baukunst (Band 1)"
+    -
+        url: https://digi.ub.uni-heidelberg.de/diglit/iiif/vitruvius1796b/manifest
+        title: "Des Marcus Vitruvius Pollio Baukunst (Band 2)"
+-
+    pid: octavo-244
+    url: http://resolver.sub.uni-goettingen.de/purl?PPN386079390
+    org: SUB Göttingen
+    links:
+    -
+        url: https://manifests.sub.uni-goettingen.de/iiif/presentation/PPN386079390/manifest
+        title: Ueber Verzierung gymnastischer Uebungsplätze durch Kunstwerke im antiken Geschmacke
