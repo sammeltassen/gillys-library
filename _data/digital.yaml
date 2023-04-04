@@ -786,3 +786,36 @@
     -
         url: https://manifests.sub.uni-goettingen.de/iiif/presentation/PPN806821353/manifest
         title: Rede Über Das Verhältniss Verschiedener Der Vornehmsten Städte Von Europa (1796)
+-
+    pid: quarto-38
+    url: https://archive.org/details/veuesdeversaille00swid
+    org: Getty Research Institute
+    links:
+    -
+        url: https://archive.org/embed/veuesdeversaille00swid
+        title: Veues de Versailles
+-   
+    pid: octavo-60
+    url: https://gdz.sub.uni-goettingen.de/id/PPN65386437X
+    org: SUB Göttingen
+    thumb: https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN65386437X:00000001/full/500,/0/default.jpg
+    links:
+    -
+        url: https://manifests.sub.uni-goettingen.de/iiif/presentation/PPN65386437X/manifest
+        title: Herrn Professor Meisters Abhandlung über die Pyramiden
+-
+    pid: octavo-159-167
+    url: https://polona.pl/item/neapel-und-sizilien-ein-auszug-aus-dem-grossen-und-kostbaren-werke-voyage-pittoresque,ODE2NTcxMw/
+    org: The National Library of Poland
+    links: 
+    - 
+        url: https://polona.pl/iiif/item/ODE2NTcxMw/manifest.json
+        title: "Neapel und Sizilien : Ein Auszug aus dem großen und kostbaren Werke : Voyage pittoresque de Naples et Sicile de Mr. de Non [...]. T. 3"
+-
+    pid: octavo-109
+    url: https://doi.org/10.11588/diglit.3655
+    org: Heidelberg University Library
+    links:
+    -
+        url: https://digi.ub.uni-heidelberg.de/diglit/iiif/semler1748/manifest
+        title: "Joh. Salom. Semlers Erleuterung der egyptischen Altertümer, durch Uebersetzung der Schrift Plutarchs von der Isis und dem Osiris und der Nachricht von Egypten aus Herodots zweitem Buch mit beigefügten Anmerckungen"
