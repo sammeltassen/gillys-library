@@ -951,3 +951,10 @@
 - pid: quarto-94-95
   url: http://nbn-resolving.de/urn:nbn:de:kobv:83-goobi-879422
   org: Universitätsbibliothek TU Berlin
+- pid: folio-107
+  url: https://nbn-resolving.org/urn:nbn:de:gbv:32-1-10018106376
+  org: Bibliothek der Kunstsammlungen Weimar
+  links:
+  -
+    url: https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1605597104/manifest/
+    title: Ansichten der vorzüglichsten Parthien des Gartens zu Machern
