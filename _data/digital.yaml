@@ -929,3 +929,23 @@
     -
         url: https://manifests.sub.uni-goettingen.de/iiif/presentation/PPN386079390/manifest
         title: Ueber Verzierung gymnastischer Uebungsplätze durch Kunstwerke im antiken Geschmacke
+- pid: quarto-76-82
+  url: https://digital.ub.tu-berlin.de/view/work/bv002599571/
+  org: Universitätsbibliothek TU Berlin
+- pid: quarto-76-82
+  url: https://www.digitale-sammlungen.de/en/search?filter=volumes%3A%22bsb10871482%2FBV002599571%22
+  org: Bayerische Staatsbibliothek
+  links:
+  -
+    url: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10871482/manifest
+    title: "Sammlung nützlicher Aufsätze und Nachrichten, die Baukunst betreffend: für angehende Baumeister und Freunde der Architektur. 3. 1799"
+  -
+    url: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10871483/manifest
+    title: "Sammlung nützlicher Aufsätze und Nachrichten, die Baukunst betreffend; 4. 1800"
+  -
+    url: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10871484/manifest
+    title: "Sammlung nützlicher Aufsätze und Nachrichten, die Baukunst betreffend; 5. 1803"
+  -
+    url: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11020575/manifest
+    title: "Sammlung nützlicher Aufsätze und Nachrichten, die Baukunst betreffend; 6. 1805/06"
+
