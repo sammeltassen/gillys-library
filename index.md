@@ -8,7 +8,7 @@ title: "Gilly's Library"
 
 This website provides a digital index of the library of Berlin architect Friedrich Gilly (1772 – 1800), with the aim to add links to digital editions when available.
 
-Read more about Gilly's library in [this introduction](/gillys-library/introduction) by Barry Bergdoll. Or come to the presentation at the Berlin University of the Arts on Sat Jul 2, 2022 by María Ocón Fernández, Michael Bollé and Jules Schoonman, see: [Lange Nacht der Wissenschaften - Friedrich Gilly (1772–1800): Ein Architekt und seine private Büchersammlung](https://www.udk-berlin.de/veranstaltung/ausbildung-von-architekten/).
+Read more about Gilly's library in [this introduction](/introduction) by Barry Bergdoll.
 
 Image: *Portrait of Friedrich Gilly by Friedrich Georg Weitsch (1758-1828)*. Collection: <a href="https://smb.museum-digital.de/index.php?t=objekt&oges=143969">Alte Nationalgalerie, Berlin</a>.
 
